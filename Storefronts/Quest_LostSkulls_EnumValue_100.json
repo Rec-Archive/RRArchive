@@ -1,0 +1,1471 @@
+{
+    "StoreItems": [
+        {
+            "GiftDrop": {
+                "GiftDropId": 1962,
+                "FriendlyName": "Scallywag Bracers (Brown)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "b9e0f03b-2609-4911-82e9-1e324dbbe8be,cdca593a-8840-4140-9145-fe962732040c,ce3782aa-56cc-40d7-9019-8ce714cb7748,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4102,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 14,
+                "ItemSetFriendlyName": "Scallywag (Brown)",
+                "AvatarItemId": 617,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "f0s9ro8uu6ibrjgn1bicm5vf8.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "b9e0f03b-2609-4911-82e9-1e324dbbe8be,cdca593a-8840-4140-9145-fe962732040c,ce3782aa-56cc-40d7-9019-8ce714cb7748",
+                    "DownloadableAvatarItemId": "14af38ac-e196-4050-90e9-97ff5ebcd85c",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 617
+                }
+            },
+            "PurchasableItemId": 525,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1958,
+                "FriendlyName": "Scallywag Belt (Brown)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "3af4c506-d49c-4126-9437-1d3bb1658863,53dd9e44-7096-438e-a7c3-11d7c307426f,005699fe-2c69-4bec-831f-031fe8ad7f0a,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4102,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 14,
+                "ItemSetFriendlyName": "Scallywag (Brown)",
+                "AvatarItemId": 613,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "3rvrjylez3infpqjran7vpvjs.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "3af4c506-d49c-4126-9437-1d3bb1658863,53dd9e44-7096-438e-a7c3-11d7c307426f,005699fe-2c69-4bec-831f-031fe8ad7f0a",
+                    "DownloadableAvatarItemId": "5d821350-8b3b-43d0-b522-8174d227bbd6",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 613
+                }
+            },
+            "PurchasableItemId": 521,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1954,
+                "FriendlyName": "Scallywag Vest (Brown)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "664485e9-a159-4fcb-b32c-2b114b4a1218,85eb7f47-bb31-4c66-a8b3-562d35028e6c,9f1dd474-34a3-47eb-bb72-dbfc8d2d6ecf,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4101,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 14,
+                "ItemSetFriendlyName": "Scallywag (Brown)",
+                "AvatarItemId": 609,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "3m6lx9rzs88omzsy182j1yuxb.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "664485e9-a159-4fcb-b32c-2b114b4a1218,85eb7f47-bb31-4c66-a8b3-562d35028e6c,9f1dd474-34a3-47eb-bb72-dbfc8d2d6ecf",
+                    "DownloadableAvatarItemId": "ae433410-1ab7-4ae8-89a9-fd2e5573866d",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 609
+                }
+            },
+            "PurchasableItemId": 517,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 1600,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 1600,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1950,
+                "FriendlyName": "Scallywag Hat (Brown)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "8d17031a-c0a5-4145-92b7-1f0c2d8f0ce6,53dd9e44-7096-438e-a7c3-11d7c307426f,a4903da3-249d-4f0a-a746-b547fda371ff,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4100,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 14,
+                "ItemSetFriendlyName": "Scallywag (Brown)",
+                "AvatarItemId": 605,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "7qkfqsjmmjcd9v4hxmipdbu36.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "8d17031a-c0a5-4145-92b7-1f0c2d8f0ce6,53dd9e44-7096-438e-a7c3-11d7c307426f,a4903da3-249d-4f0a-a746-b547fda371ff",
+                    "DownloadableAvatarItemId": "19fb2d12-ab92-4f6b-8403-58a6cadb0262",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 605
+                }
+            },
+            "PurchasableItemId": 513,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 3200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 3200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1963,
+                "FriendlyName": "Scallywag Bracers (Red)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "b9e0f03b-2609-4911-82e9-1e324dbbe8be,62bd5dda-08da-4528-83c1-f0ca3812dc6e,ce3782aa-56cc-40d7-9019-8ce714cb7748,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4102,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 15,
+                "ItemSetFriendlyName": "Scallywag (Red)",
+                "AvatarItemId": 618,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "cxo3ckfyyp09zazkttzy0mjz4.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "b9e0f03b-2609-4911-82e9-1e324dbbe8be,62bd5dda-08da-4528-83c1-f0ca3812dc6e,ce3782aa-56cc-40d7-9019-8ce714cb7748",
+                    "DownloadableAvatarItemId": "2e760012-f15d-4258-9729-4204d5ca57ab",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 618
+                }
+            },
+            "PurchasableItemId": 526,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1959,
+                "FriendlyName": "Scallywag Belt (Red)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "3af4c506-d49c-4126-9437-1d3bb1658863,c3c9f89c-580c-43c4-b38b-07394044e0e1,005699fe-2c69-4bec-831f-031fe8ad7f0a,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4102,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 15,
+                "ItemSetFriendlyName": "Scallywag (Red)",
+                "AvatarItemId": 614,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "a8hpjaq8s1osstq81y66f1yk0.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "3af4c506-d49c-4126-9437-1d3bb1658863,c3c9f89c-580c-43c4-b38b-07394044e0e1,005699fe-2c69-4bec-831f-031fe8ad7f0a",
+                    "DownloadableAvatarItemId": "4df64da7-d7fd-47af-b423-f7b7835fc79e",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 614
+                }
+            },
+            "PurchasableItemId": 522,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1955,
+                "FriendlyName": "Scallywag Vest (Red)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "664485e9-a159-4fcb-b32c-2b114b4a1218,39f04eee-3a58-4e53-9f5e-7e995d46ed71,005699fe-2c69-4bec-831f-031fe8ad7f0a,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4101,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 15,
+                "ItemSetFriendlyName": "Scallywag (Red)",
+                "AvatarItemId": 610,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "00u595ofjuu0ky28diplmypee.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "664485e9-a159-4fcb-b32c-2b114b4a1218,39f04eee-3a58-4e53-9f5e-7e995d46ed71,005699fe-2c69-4bec-831f-031fe8ad7f0a",
+                    "DownloadableAvatarItemId": "51163dfb-9d89-4fce-85b7-68a167a92e4f",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 610
+                }
+            },
+            "PurchasableItemId": 518,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 1600,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 1600,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1951,
+                "FriendlyName": "Scallywag Hat (Red)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "8d17031a-c0a5-4145-92b7-1f0c2d8f0ce6,c3c9f89c-580c-43c4-b38b-07394044e0e1,a4903da3-249d-4f0a-a746-b547fda371ff,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4100,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 15,
+                "ItemSetFriendlyName": "Scallywag (Red)",
+                "AvatarItemId": 606,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "3llu49o19577q8gvi3uv7qu29.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "8d17031a-c0a5-4145-92b7-1f0c2d8f0ce6,c3c9f89c-580c-43c4-b38b-07394044e0e1,a4903da3-249d-4f0a-a746-b547fda371ff",
+                    "DownloadableAvatarItemId": "d14cabff-b802-4017-8015-a7155aade386",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 606
+                }
+            },
+            "PurchasableItemId": 514,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 3200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 3200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1947,
+                "FriendlyName": "Pirate Captain Cuffs (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "eceb7d49-be41-4228-86a9-2973d62e7135,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4102,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 16,
+                "ItemSetFriendlyName": "Pirate Captain (Blue)",
+                "AvatarItemId": 602,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "cwpa2fe7uhjhy2fg8z2bjoqqf.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "eceb7d49-be41-4228-86a9-2973d62e7135",
+                    "DownloadableAvatarItemId": "22682877-ca3a-4158-99ed-2a8e8eb144c9",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 602
+                }
+            },
+            "PurchasableItemId": 510,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1945,
+                "FriendlyName": "Pirate Captain Belt (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "38b38e24-d636-41c6-b80e-a285ae3106dc,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4102,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 16,
+                "ItemSetFriendlyName": "Pirate Captain (Blue)",
+                "AvatarItemId": 600,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "bu0ii93b6dmvvc93szjfnal02.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "38b38e24-d636-41c6-b80e-a285ae3106dc",
+                    "DownloadableAvatarItemId": "38820c00-323d-4863-8f01-a75c755e8d74",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 600
+                }
+            },
+            "PurchasableItemId": 508,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1946,
+                "FriendlyName": "Pirate Captain Jacket (Blue)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "3b00c71f-79c2-4a04-9fc0-a23b4c85562f,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4101,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 16,
+                "ItemSetFriendlyName": "Pirate Captain (Blue)",
+                "AvatarItemId": 601,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "5ynt63fbqq9vg0dnp6obm10jk.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "3b00c71f-79c2-4a04-9fc0-a23b4c85562f",
+                    "DownloadableAvatarItemId": "0a02f221-0993-4974-a975-6fee4fa20cf8",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 601
+                }
+            },
+            "PurchasableItemId": 509,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 1600,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 1600,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1944,
+                "FriendlyName": "Pirate Captain Hat (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "3df394de-9c3e-4141-aba4-12eac4742102,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4100,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 16,
+                "ItemSetFriendlyName": "Pirate Captain (Blue)",
+                "AvatarItemId": 599,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dl4lc9lujy638xdphs121fg3k.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "3df394de-9c3e-4141-aba4-12eac4742102",
+                    "DownloadableAvatarItemId": "50bf95f1-c4d9-4fa8-a621-d85b54736e91",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 599
+                }
+            },
+            "PurchasableItemId": 507,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 3200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 3200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1960,
+                "FriendlyName": "Pirate Captain Cuffs (Red)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "eceb7d49-be41-4228-86a9-2973d62e7135,556141f7-6fbc-4065-9faa-8d8240a93d7f,7a7bc314-4ffd-4ac8-9ed6-6ca73589c132,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4102,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 17,
+                "ItemSetFriendlyName": "Pirate Captain (Red)",
+                "AvatarItemId": 615,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "1ouywwp83tgc11yi3x9wro2bd.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "eceb7d49-be41-4228-86a9-2973d62e7135,556141f7-6fbc-4065-9faa-8d8240a93d7f,7a7bc314-4ffd-4ac8-9ed6-6ca73589c132",
+                    "DownloadableAvatarItemId": "e4e70dc0-3923-4f5f-8b6f-b3a7d016d26f",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 615
+                }
+            },
+            "PurchasableItemId": 523,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1956,
+                "FriendlyName": "Pirate Captain Belt (Red)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "38b38e24-d636-41c6-b80e-a285ae3106dc,0f71b9a2-dd88-435c-a571-4503d12dcf2d,9b2102f0-e16b-464f-9f1c-f068de52bb89,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4102,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 17,
+                "ItemSetFriendlyName": "Pirate Captain (Red)",
+                "AvatarItemId": 611,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "0rvymvsae95r30k0psb64iavr.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "38b38e24-d636-41c6-b80e-a285ae3106dc,0f71b9a2-dd88-435c-a571-4503d12dcf2d,9b2102f0-e16b-464f-9f1c-f068de52bb89",
+                    "DownloadableAvatarItemId": "c6bb9a57-eea4-4e16-8983-3fb56e4ada78",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 611
+                }
+            },
+            "PurchasableItemId": 519,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1952,
+                "FriendlyName": "Pirate Captain Jacket (Red)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "3b00c71f-79c2-4a04-9fc0-a23b4c85562f,556141f7-6fbc-4065-9faa-8d8240a93d7f,00ac4e37-6eac-4ed5-b46c-2c075038bc3f,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4101,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 17,
+                "ItemSetFriendlyName": "Pirate Captain (Red)",
+                "AvatarItemId": 607,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "5ftzyq0wpssi4a8hsrmla5jml.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "3b00c71f-79c2-4a04-9fc0-a23b4c85562f,556141f7-6fbc-4065-9faa-8d8240a93d7f,00ac4e37-6eac-4ed5-b46c-2c075038bc3f",
+                    "DownloadableAvatarItemId": "6ce4f05e-55ac-4821-9d9d-ee45d61cea67",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 607
+                }
+            },
+            "PurchasableItemId": 515,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 1600,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 1600,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1948,
+                "FriendlyName": "Pirate Captain Hat (Red)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "3df394de-9c3e-4141-aba4-12eac4742102,17040a88-87f1-4613-b439-3316e33dbd48,71fd06e3-cac8-4923-a09c-ef91183712d2,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4100,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 17,
+                "ItemSetFriendlyName": "Pirate Captain (Red)",
+                "AvatarItemId": 603,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "5o6eyu7tmzl4ffq27fn0ucofj.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "3df394de-9c3e-4141-aba4-12eac4742102,17040a88-87f1-4613-b439-3316e33dbd48,71fd06e3-cac8-4923-a09c-ef91183712d2",
+                    "DownloadableAvatarItemId": "b25ccc14-4a64-45be-b8ff-2902f89ac425",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 603
+                }
+            },
+            "PurchasableItemId": 511,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 3200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 3200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2030,
+                "FriendlyName": "Film (Ghost Beard)",
+                "Tooltip": "Take some photos with Ghostbeard!",
+                "TagList": "",
+                "ConsumableItemDesc": "1c0Djlp090uBDczEobYNQw",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4105,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 24,
+                "ItemSetFriendlyName": "Ghost Beard's Treasures",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "4qlk8f3yq5l029cuxw9x7upe8.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 587,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 250,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 250,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2016,
+                "FriendlyName": "High Five Potion (Explosive)",
+                "Tooltip": "Give explosive high fives for a time.",
+                "TagList": "",
+                "ConsumableItemDesc": "YEfbJTnsR0yT_p7e7tb_kQ",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4105,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 24,
+                "ItemSetFriendlyName": "Ghost Beard's Treasures",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "0qf27ybc0vw04wy6p95zd81ft.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 576,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1936,
+                "FriendlyName": "Scallywag Hat (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "8d17031a-c0a5-4145-92b7-1f0c2d8f0ce6,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 18,
+                "ItemSetFriendlyName": "Scallywag (Black)",
+                "AvatarItemId": 595,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "d1wurf50yoyooz47syoelb2ri.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "8d17031a-c0a5-4145-92b7-1f0c2d8f0ce6",
+                    "DownloadableAvatarItemId": "f959411e-06ac-4605-b495-c1b39feb4133",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 595
+                }
+            },
+            "PurchasableItemId": 501,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 20000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 20000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1937,
+                "FriendlyName": "Scallywag Belt (Black)",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "3af4c506-d49c-4126-9437-1d3bb1658863,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 18,
+                "ItemSetFriendlyName": "Scallywag (Black)",
+                "AvatarItemId": 596,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "4b0c6i1j57butbjhen02dvnxd.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "3af4c506-d49c-4126-9437-1d3bb1658863",
+                    "DownloadableAvatarItemId": "6e5ec114-69d8-44dd-ab63-4635d88ae11c",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 596
+                }
+            },
+            "PurchasableItemId": 502,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 5000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 5000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1938,
+                "FriendlyName": "Scallywag Vest (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "664485e9-a159-4fcb-b32c-2b114b4a1218,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 18,
+                "ItemSetFriendlyName": "Scallywag (Black)",
+                "AvatarItemId": 597,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "a6uf8rc48kcjj4lj2fsir9vsr.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "664485e9-a159-4fcb-b32c-2b114b4a1218",
+                    "DownloadableAvatarItemId": "5694cb79-1586-4bf7-851c-1a34c91e2bd5",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 597
+                }
+            },
+            "PurchasableItemId": 503,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 10000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 10000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1939,
+                "FriendlyName": "Scallywag Bracers (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "b9e0f03b-2609-4911-82e9-1e324dbbe8be,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 18,
+                "ItemSetFriendlyName": "Scallywag (Black)",
+                "AvatarItemId": 598,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "6ko9exiyd39fsdh9zptnhw8ba.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "b9e0f03b-2609-4911-82e9-1e324dbbe8be",
+                    "DownloadableAvatarItemId": "04e231e5-946d-4dc4-a7c3-95fed4b9b2d4",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 598
+                }
+            },
+            "PurchasableItemId": 504,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 5000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 100,
+                    "Price": 5000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        }
+    ],
+    "SubscriberDiscountPercent": 10,
+    "StorefrontName": null,
+    "StorefrontType": 100,
+    "NextUpdate": "2222-02-22T22:22:00Z",
+    "NewUntil": null
+}

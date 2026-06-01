@@ -1,0 +1,1137 @@
+{
+    "StoreItems": [
+        {
+            "GiftDrop": {
+                "GiftDropId": 3065,
+                "FriendlyName": "Witch Hunter Torso (Blue)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "418db0e0-c7af-40c2-9cac-d461ce41e210,aBQ3R9boek-mYeSYSNvDbQ,0f49ac81-63bd-4845-8bdc-1944181a8aa3,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 47,
+                "ItemSetFriendlyName": "Witch Hunter (Blue)",
+                "AvatarItemId": 1315,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dci33hnvmb7vrbgaa8u6zvrlg.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "418db0e0-c7af-40c2-9cac-d461ce41e210,aBQ3R9boek-mYeSYSNvDbQ,0f49ac81-63bd-4845-8bdc-1944181a8aa3",
+                    "DownloadableAvatarItemId": "0965f7d0-a4a4-4028-84d7-3800a9dcbf03",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1315
+                }
+            },
+            "PurchasableItemId": 1571,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 2250,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3069,
+                "FriendlyName": "Witch Hunter Gloves (Blue)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "1974dd48-aa44-434f-879a-eaff0c7c06e6,aBQ3R9boek-mYeSYSNvDbQ,5b8d9490-e5bc-480e-91bc-65d1797b52ad,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 47,
+                "ItemSetFriendlyName": "Witch Hunter (Blue)",
+                "AvatarItemId": 1319,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "ao77s83vraqs2p4xiwkoxdk8o.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "1974dd48-aa44-434f-879a-eaff0c7c06e6,aBQ3R9boek-mYeSYSNvDbQ,5b8d9490-e5bc-480e-91bc-65d1797b52ad",
+                    "DownloadableAvatarItemId": "e2f3094c-76f1-4ff7-81bc-93edf4df7dcf",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1319
+                }
+            },
+            "PurchasableItemId": 1573,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 720,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3055,
+                "FriendlyName": "Witch Hunter Hat (Blue)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "6d36091e-7083-4e3d-8729-94612602c8cb,aBQ3R9boek-mYeSYSNvDbQ,32d91d32-b102-4093-927a-6dc3ac2e9e86,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 47,
+                "ItemSetFriendlyName": "Witch Hunter (Blue)",
+                "AvatarItemId": 1305,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "3wjvw25jvmg34uniq3dxxrv37.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "6d36091e-7083-4e3d-8729-94612602c8cb,aBQ3R9boek-mYeSYSNvDbQ,32d91d32-b102-4093-927a-6dc3ac2e9e86",
+                    "DownloadableAvatarItemId": "79f1b47b-ac6c-478b-b8b8-2fadc57b8595",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1305
+                }
+            },
+            "PurchasableItemId": 1576,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1350,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3073,
+                "FriendlyName": "Regal Crown (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "9d395a84-4342-4b1c-940c-213ec2eb56f9,rmq1AOQvtUGOHvbPUximwg,XFuSiGupZ02Fut1Dxum_Iw,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 1323,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "5zb2ksxrxwp3n2qlecml4u0l5.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "9d395a84-4342-4b1c-940c-213ec2eb56f9,rmq1AOQvtUGOHvbPUximwg,XFuSiGupZ02Fut1Dxum_Iw",
+                    "DownloadableAvatarItemId": "b444e80b-84fc-425d-b917-29b9414b4b08",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1323
+                }
+            },
+            "PurchasableItemId": 1574,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 9000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 8100,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3071,
+                "FriendlyName": "Regal Crown (Gold)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "9d395a84-4342-4b1c-940c-213ec2eb56f9,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 1321,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "357bwxxf0kvoz6yd778gmm1k6.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "9d395a84-4342-4b1c-940c-213ec2eb56f9",
+                    "DownloadableAvatarItemId": "1afc1405-e2d6-424a-bb90-c5ce95c4d47b",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1321
+                }
+            },
+            "PurchasableItemId": 1568,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 9000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 8100,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3072,
+                "FriendlyName": "Regal Crown (White)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "9d395a84-4342-4b1c-940c-213ec2eb56f9,Zljmtj5WqUaRvB3XQTgJXg,XFuSiGupZ02Fut1Dxum_Iw,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 1322,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "8kgbf2gxx8ajp1uw1zrx306an.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "9d395a84-4342-4b1c-940c-213ec2eb56f9,Zljmtj5WqUaRvB3XQTgJXg,XFuSiGupZ02Fut1Dxum_Iw",
+                    "DownloadableAvatarItemId": "7c207169-27ff-434e-9a76-2e0d16416865",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1322
+                }
+            },
+            "PurchasableItemId": 1580,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 9000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 8100,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3307,
+                "FriendlyName": "Tiny Crown",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "00f0b914-aa22-4d14-9af1-996e1af61f4d,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 1504,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "49614bvc1m6rzznnvix44dnbb.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "00f0b914-aa22-4d14-9af1-996e1af61f4d",
+                    "DownloadableAvatarItemId": "8a3319f3-67fa-4f37-a183-914bcc0397e5",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1504
+                }
+            },
+            "PurchasableItemId": 1769,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 5500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 4950,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2015,
+                "FriendlyName": "High Five Potion (Magic)",
+                "Tooltip": "Give magical high fives for a time.",
+                "TagList": "",
+                "ConsumableItemDesc": "VQSgL2pTLkWx4B3kwYG7UA",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 4014,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "94izrtnj71tapg7f6p3mq84rq.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 575,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 30,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 27,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3066,
+                "FriendlyName": "Wizard Robes (Purple)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "97eae086-cfea-45ff-9b77-1d184256d493,d3KmqVuMQkCYK6sVTMOTOA,8768aa33-b014-4062-b323-b146dd7d78d2,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 48,
+                "ItemSetFriendlyName": "Wizard (Purple)",
+                "AvatarItemId": 1316,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "47ngqkmtgcfvbds2nhtksozc3.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "97eae086-cfea-45ff-9b77-1d184256d493,d3KmqVuMQkCYK6sVTMOTOA,8768aa33-b014-4062-b323-b146dd7d78d2",
+                    "DownloadableAvatarItemId": "f075eeeb-1b6a-4ac4-bb0b-21fafb170345",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1316
+                }
+            },
+            "PurchasableItemId": 1572,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 2250,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3056,
+                "FriendlyName": "Wizard Hat (Purple)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "01689baf-405e-4b38-9f09-b624e03865b8,d3KmqVuMQkCYK6sVTMOTOA,abdf525b-b871-41be-a1c8-810f49740ad4,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 48,
+                "ItemSetFriendlyName": "Wizard (Purple)",
+                "AvatarItemId": 1306,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "19rp9i0wdr1ua9vm9hgjiy1f2.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "01689baf-405e-4b38-9f09-b624e03865b8,d3KmqVuMQkCYK6sVTMOTOA,abdf525b-b871-41be-a1c8-810f49740ad4",
+                    "DownloadableAvatarItemId": "8d4c50ea-bc2e-4d76-99e0-d31065c3dc14",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1306
+                }
+            },
+            "PurchasableItemId": 1577,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1350,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3070,
+                "FriendlyName": "Wizard Bracers (Purple)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "22ef1089-d073-4fe8-b038-6f34adf0b85f,d3KmqVuMQkCYK6sVTMOTOA,47514b9b-0d17-4727-97ed-dab67e7fe031,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 48,
+                "ItemSetFriendlyName": "Wizard (Purple)",
+                "AvatarItemId": 1320,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "0vwlyjwom9p9ef29kfe7nowjz.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "22ef1089-d073-4fe8-b038-6f34adf0b85f,d3KmqVuMQkCYK6sVTMOTOA,47514b9b-0d17-4727-97ed-dab67e7fe031",
+                    "DownloadableAvatarItemId": "efc08294-0f07-40a3-a2ee-69c14ff6815b",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1320
+                }
+            },
+            "PurchasableItemId": 1578,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 900,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 810,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3306,
+                "FriendlyName": "Royal Cape (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "a44766dc-19ad-4476-849c-5113a5faabd0,cKLBS6pbf0SFuavWyeZ7GA,HTU3Wp_ri0GNYGFSezFHSg,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 1503,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "1ttt8tqohiquycu310oyhuoql.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "a44766dc-19ad-4476-849c-5113a5faabd0,cKLBS6pbf0SFuavWyeZ7GA,HTU3Wp_ri0GNYGFSezFHSg",
+                    "DownloadableAvatarItemId": "8f83787d-46d9-4b89-9f83-8c244bfc67bb",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1503
+                }
+            },
+            "PurchasableItemId": 1770,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 5000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 4500,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3060,
+                "FriendlyName": "Royal Cape (Green)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "a44766dc-19ad-4476-849c-5113a5faabd0,_9QlnTPXuEO5OQ3H0CwFkA,HTU3Wp_ri0GNYGFSezFHSg,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 1310,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "7h38lx0795mk0b8xq52d9qxpl.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "a44766dc-19ad-4476-849c-5113a5faabd0,_9QlnTPXuEO5OQ3H0CwFkA,HTU3Wp_ri0GNYGFSezFHSg",
+                    "DownloadableAvatarItemId": "fecc9644-9fe9-4f75-a36a-5d65308183d9",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1310
+                }
+            },
+            "PurchasableItemId": 1593,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 5000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 4500,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3059,
+                "FriendlyName": "Royal Cape (Blue)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "a44766dc-19ad-4476-849c-5113a5faabd0,MbusQ9bte0i9zirlxtNkSQ,HTU3Wp_ri0GNYGFSezFHSg,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 1309,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "auudmnyvmvid9ohssear4bwrb.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "a44766dc-19ad-4476-849c-5113a5faabd0,MbusQ9bte0i9zirlxtNkSQ,HTU3Wp_ri0GNYGFSezFHSg",
+                    "DownloadableAvatarItemId": "73e3d54e-2310-489d-bd70-6b485043dd15",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1309
+                }
+            },
+            "PurchasableItemId": 1579,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 5000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 4500,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2572,
+                "FriendlyName": "Royal Cape (Purple)",
+                "Tooltip": null,
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "a44766dc-19ad-4476-849c-5113a5faabd0,mqdncbYcuUSGFvFqEU0z4A,HTU3Wp_ri0GNYGFSezFHSg,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 899,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2bi9ik7y9m6zg5fxaf10v08uj.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "a44766dc-19ad-4476-849c-5113a5faabd0,mqdncbYcuUSGFvFqEU0z4A,HTU3Wp_ri0GNYGFSezFHSg",
+                    "DownloadableAvatarItemId": "e324d548-871e-48a6-90c7-3d050210c82f",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 899
+                }
+            },
+            "PurchasableItemId": 1138,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 5000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 4500,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3087,
+                "FriendlyName": "Bog Monster Suit",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "dedd2e98-2721-4de6-92f2-9d399f34e8fe,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 51,
+                "ItemSetFriendlyName": "Bog Monster",
+                "AvatarItemId": 1336,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "cdcrail4xl68zz5i57rfmgvcm.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "dedd2e98-2721-4de6-92f2-9d399f34e8fe",
+                    "DownloadableAvatarItemId": "f1531bb7-8e84-4d17-988c-0832168261ad",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1336
+                }
+            },
+            "PurchasableItemId": 1607,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 3000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 2700,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3088,
+                "FriendlyName": "Bog Monster Wrist",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "4e42e02e-33fd-4ff9-b74e-9bde26253c35,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 51,
+                "ItemSetFriendlyName": "Bog Monster",
+                "AvatarItemId": 1337,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "15ql8y6860hwqib0t4k041550.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "4e42e02e-33fd-4ff9-b74e-9bde26253c35",
+                    "DownloadableAvatarItemId": "c820057b-e895-4eb0-8554-2e8afee343ad",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1337
+                }
+            },
+            "PurchasableItemId": 1605,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 900,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3089,
+                "FriendlyName": "Bog Monster Hood",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "20b424a9-861a-4d39-a583-22d7b7348c14,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 51,
+                "ItemSetFriendlyName": "Bog Monster",
+                "AvatarItemId": 1338,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "5g3kf0itlpuocmwiedgwzxbrn.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "20b424a9-861a-4d39-a583-22d7b7348c14",
+                    "DownloadableAvatarItemId": "4c7decc2-688c-438b-9c8e-803f83324cb8",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1338
+                }
+            },
+            "PurchasableItemId": 1606,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 9000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 8100,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        }
+    ],
+    "SubscriberDiscountPercent": 10,
+    "StorefrontName": null,
+    "StorefrontType": 103,
+    "NextUpdate": "2222-02-22T22:22:00Z",
+    "NewUntil": "2020-01-28T21:00:00Z"
+}

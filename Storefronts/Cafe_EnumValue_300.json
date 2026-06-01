@@ -1,0 +1,1786 @@
+{
+    "StoreItems": [
+        {
+            "GiftDrop": {
+                "GiftDropId": 18128,
+                "FriendlyName": "Hams",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "jtWlAV4RzEu2Rm-i6FmASg",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 20,
+                "Context": 13000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "a9g9bfx05yuvdi7ms56khz2sf.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 31863,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 400,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 360,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": "2025-08-08T18:00:00Z",
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 18130,
+                "FriendlyName": "Turkey Legs",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "vfVUdzss9kOy9otO6vop_w",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 20,
+                "Context": 13000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "1rg32b8glu6x5xl5nklqgsccr.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 31865,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 400,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 360,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": "2025-08-08T18:00:00Z",
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 9418,
+                "FriendlyName": "Monster Munchies Popcorn",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "X87_WR7sOkmWHDFboknl9w",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "b8kaos4q83xzgcctf0fd4lgux.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 24372,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 900,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": "2024-06-13T20:50:00Z",
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2471,
+                "FriendlyName": "Salted Pretzels",
+                "Tooltip": "A great snack to share with friends!",
+                "TagList": "",
+                "ConsumableItemDesc": "InQ25wQMGkG_bvuD5rf2Ag",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 52,
+                "ItemSetFriendlyName": "Snickety Snacks",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "1tnsrjjgvznlbhgm9zoakypgl.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 921,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 75,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 67,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2011,
+                "FriendlyName": "Root Beer",
+                "Tooltip": "A sixer of root beer to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "JfnVXFmilU6ysv-VbTAe3A",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dftf7822mxh6qptcetqjpetcs.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 572,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 50,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 45,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3025,
+                "FriendlyName": "Fancy Bubbly",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "iiGTvhOCHkOTNJhb16Zbyw",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 176,
+                "ItemSetFriendlyName": "Yummy Bubbly",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2d6tl7oxqp9fg3xzi1l2o421v.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 1554,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 900,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2010,
+                "FriendlyName": "Ego Potion",
+                "Tooltip": "Makes your head BIG for a time.",
+                "TagList": "",
+                "ConsumableItemDesc": "Tpxqe_lycUelySRHM8B0Vw",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "3fd173lhwrfagyom7bkvs6kk0.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 571,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 90,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 81,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3880,
+                "FriendlyName": "Sushi",
+                "Tooltip": "15 piece premium sushi set to share with friends",
+                "TagList": "",
+                "ConsumableItemDesc": "4My42w1D1Uu3-98pXB-x_Q",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "89ssg0nfsd3pvxmk9qu1eeo4q.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 2145,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 750,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 675,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 4256,
+                "FriendlyName": "Cake Pops",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "Efd3_dy4ZEqWr7i6j5x0aA",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "6xyef5otryn6t5vcxvlel0pi3.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 2465,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 600,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 540,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3026,
+                "FriendlyName": "Popcorn",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "QRx0aSTT9keMFdAJMQHdTg",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 52,
+                "ItemSetFriendlyName": "Snickety Snacks",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "el3ubqsmm0g5bfdpfmdicdww3.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 1594,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 100,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 90,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3678,
+                "FriendlyName": "Assorted Chocolates",
+                "Tooltip": "Assorted chocolates to share with friends!",
+                "TagList": "",
+                "ConsumableItemDesc": "K9RbXo-4U0q6NbGu8VL1Sw",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 52,
+                "ItemSetFriendlyName": "Snickety Snacks",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dld7oppq75kw0uipfhcu5ek98.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 1896,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 250,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 225,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2027,
+                "FriendlyName": "Pepperoni Pizza",
+                "Tooltip": "A pepperoni pizza to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "mq23W-RSP0G8iGNLdrcpUw",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 33,
+                "ItemSetFriendlyName": "Pizza Aplenty",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "djl7e6pfeq8qt3ajxoy7t0mup.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 584,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 90,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 81,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2025,
+                "FriendlyName": "Cheese Pizza",
+                "Tooltip": "A cheese pizza to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "5hIAZ9wg5EyG1cILf4FS2A",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 33,
+                "ItemSetFriendlyName": "Pizza Aplenty",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "0845hr24nyo1j3bwj7hxmo8uk.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 582,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 85,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 76,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2014,
+                "FriendlyName": "Supreme Pizza",
+                "Tooltip": "A supreme pizza to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "wUCIKdJSvEmiQHYMyx4X4w",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 20,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 33,
+                "ItemSetFriendlyName": "Pizza Aplenty",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "3jqgwifva9cr69n8v33taa8b3.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 574,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 95,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 85,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2470,
+                "FriendlyName": "Hawaiian Pizza",
+                "Tooltip": "A ham and pineapple pizza to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "_jnjYGBcyEWY5Ub4OezXcA",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 33,
+                "ItemSetFriendlyName": "Pizza Aplenty",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "74lfyx269i9ouxfkm2dh8xo6f.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 922,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 95,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 85,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2324,
+                "FriendlyName": "Glazed Donuts",
+                "Tooltip": "A dozen glazed donuts to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "7OZ5AE3uuUyqa0P-2W1ptg",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 34,
+                "ItemSetFriendlyName": "Donuts by the Dozen",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "27rk8cmj9xgene4tcejoduyqv.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 855,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 90,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                },
+                {
+                    "CurrencyType": 400,
+                    "Price": 90,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 81,
+                    "StorefrontSaleData": null
+                },
+                {
+                    "CurrencyType": 400,
+                    "Price": 90,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2327,
+                "FriendlyName": "Chocolate Donuts",
+                "Tooltip": "A dozen chocolate donuts to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "mMCGPgK3tki5S_15q2Z81A",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 34,
+                "ItemSetFriendlyName": "Donuts by the Dozen",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dgqdg4akjj57edslp9l63ta3x.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 856,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 95,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 85,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2326,
+                "FriendlyName": "Assorted Donuts",
+                "Tooltip": "A dozen assorted donuts to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "ZuvkidodzkuOfGLDnTOFyg",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 20,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 34,
+                "ItemSetFriendlyName": "Donuts by the Dozen",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dvtzzncutq8z5gcpx378mli8k.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 857,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 100,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 90,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3314,
+                "FriendlyName": "Celebration Cake",
+                "Tooltip": "Eight slices of tasty cake to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "Sk_1sm88ZU2zpWn01Lv7hw",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 32,
+                "ItemSetFriendlyName": "Coach's Cakes",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "755s69ynvdnizywvaw8415n1g.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 1767,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 600,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 540,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3328,
+                "FriendlyName": "87 Flavor Cake",
+                "Tooltip": "Eight slices of tasty cake to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "xwQWBB_fekmTqRc2LB92cg",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 32,
+                "ItemSetFriendlyName": "Coach's Cakes",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "evdt42n8s2y5vjf5s10ky2esv.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 1772,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 600,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 540,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3313,
+                "FriendlyName": "Red Velvet Cake",
+                "Tooltip": "Eight slices of tasty cake to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "LwaotjVEBUir0-w8126n_g",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 32,
+                "ItemSetFriendlyName": "Coach's Cakes",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2r5n8kgt52tuxrcxuif6xlrr5.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 1766,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 450,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3312,
+                "FriendlyName": "Chocolate Cake",
+                "Tooltip": "Eight slices of tasty cake to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "BbJb1_0g4EGJP_CeNrjpew",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 32,
+                "ItemSetFriendlyName": "Coach's Cakes",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2bb1ei2707pi88t3tcme4yjtm.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 1765,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 450,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3798,
+                "FriendlyName": "Tray of Lattes",
+                "Tooltip": "Four hot lattes to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "P15H1ONBhk-5DYYjid1ttg",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 171,
+                "ItemSetFriendlyName": "Lavish Latte's",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2rabbbtgwyr8bxom1nupvurpo.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 2089,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 95,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 85,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 11773,
+                "FriendlyName": "Taro Bubble Tea",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "j0gVmrW-hUyCbUzVhHqgmg",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 1003,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "83chvtydek6juxc1y9xdy81qh.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 25606,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1100,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 990,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 14338,
+                "FriendlyName": "Mochi",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "aJXKZxT0wUuZzUSAjLnLPg",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 1004,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2kcyk5s5ec778qaqrca0ffzmm.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 28342,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 900,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": "2025-06-06T21:00:00Z",
+            "AvailableAt": "2025-05-30T18:00:00Z",
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 14339,
+                "FriendlyName": "Dango",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "YwMfMi60fkavqFdtwyQB9w",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 1004,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "b9ddcly2re91v6097qifi8f2m.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 28343,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 900,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": "2025-06-06T21:00:00Z",
+            "AvailableAt": "2025-05-30T18:00:00Z",
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 14340,
+                "FriendlyName": "Onigiri",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "KoJIMR3S80utKPFvtorTaQ",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 1004,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "6hj7x12yrbfqzik2mxctcqm1o.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 28344,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 900,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": "2025-06-06T21:00:00Z",
+            "AvailableAt": "2025-05-30T18:00:00Z",
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 14274,
+                "FriendlyName": "Bucket of Tennis Balls",
+                "Tooltip": "Spawn these tennis balls (definitely not rocks) to toss around with your friends! *Not a bucket skin*",
+                "TagList": "",
+                "ConsumableItemDesc": "X1UoHpUh60OuBJWShAWegQ",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 1003,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "cemsgno18l7qp6looezv97c1f.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 28277,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 720,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3361,
+                "FriendlyName": "Candy Apples",
+                "Tooltip": "A festive fall treat!",
+                "TagList": "",
+                "ConsumableItemDesc": "EmPvh3I6L0uK_1i8Wy_ylQ",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 20,
+                "Context": 1003,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2czvf602c4d8hhrjfanka17wx.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 1801,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 95,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 85,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 33054,
+                "FriendlyName": "Poison Apple",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "psv1PjRF1kuLd-02f4gvTw",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": 1000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "d0tllof5fboum0asmeog2fasd.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 32133,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 50,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 45,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 8509,
+                "FriendlyName": "Pumpkin Spice Latte",
+                "Tooltip": "A festive fall treat!",
+                "TagList": "",
+                "ConsumableItemDesc": "4v65OqJc0EGzry_taWKzNA",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 20,
+                "Context": 1003,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 171,
+                "ItemSetFriendlyName": "Lavish Latte's",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "4328x1gzt31h6zp1nkt2w3769.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 3243,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 250,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 225,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        }
+    ],
+    "SubscriberDiscountPercent": 10,
+    "StorefrontName": null,
+    "StorefrontType": 300,
+    "NextUpdate": "2222-02-22T22:22:00Z",
+    "NewUntil": null
+}

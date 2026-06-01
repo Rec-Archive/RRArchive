@@ -1,0 +1,1010 @@
+{
+    "StoreItems": [
+        {
+            "GiftDrop": {
+                "GiftDropId": 2520,
+                "FriendlyName": "Aristocrat Cuff (Green)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "t9co2516nkuJO4LIJA1bJA,Wj7I2YiVoE6zp8J_HYs8tw,8kdJkmwNM0WQmMVrb8fK8A,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 19,
+                "ItemSetFriendlyName": "Aristocrat (Green)",
+                "AvatarItemId": 854,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "due9stf9zpfkmdoblb2wlfcuk.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "t9co2516nkuJO4LIJA1bJA,Wj7I2YiVoE6zp8J_HYs8tw,8kdJkmwNM0WQmMVrb8fK8A",
+                    "DownloadableAvatarItemId": "12e24683-484f-45d4-89a8-79f1510e3165",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 854
+                }
+            },
+            "PurchasableItemId": 979,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 20000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 20000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2518,
+                "FriendlyName": "Aristocrat Necklace (Emerald)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "jiBzrzDPkkuL6DqIFKpcCw,OfenZaa1-UGdQ8YVOrXjzw,StxMBEprVkqMa_IoDG-Q9A,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 19,
+                "ItemSetFriendlyName": "Aristocrat (Green)",
+                "AvatarItemId": 852,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2qjoypuya1mw4gd0o6jhz9c0k.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "jiBzrzDPkkuL6DqIFKpcCw,OfenZaa1-UGdQ8YVOrXjzw,StxMBEprVkqMa_IoDG-Q9A",
+                    "DownloadableAvatarItemId": "61dbd4e2-7d70-41e6-8f69-7d7b7046c20a",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 852
+                }
+            },
+            "PurchasableItemId": 980,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 40000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 40000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2519,
+                "FriendlyName": "Aristocrat Jacket (Green)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "QCtqxbvYOkan79YFugH_Cw,LyVf9lnzdku1F4iPBGqk-g,xnxDimLvVUCI9tEJqWDDcA,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 19,
+                "ItemSetFriendlyName": "Aristocrat (Green)",
+                "AvatarItemId": 853,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "3ky2r4usf4c9jpd0da9kxr9az.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "QCtqxbvYOkan79YFugH_Cw,LyVf9lnzdku1F4iPBGqk-g,xnxDimLvVUCI9tEJqWDDcA",
+                    "DownloadableAvatarItemId": "df364af2-4999-4146-9d39-a704cba99582",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 853
+                }
+            },
+            "PurchasableItemId": 978,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 80000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 80000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2498,
+                "FriendlyName": "Aristocrat Cuff (Red)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "t9co2516nkuJO4LIJA1bJA,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 20,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 20,
+                "ItemSetFriendlyName": "Aristocrat (Red)",
+                "AvatarItemId": 834,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "axv14g3ocxvf01h82ybehl3rg.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "t9co2516nkuJO4LIJA1bJA",
+                    "DownloadableAvatarItemId": "32cf426f-fa0f-4327-a2f4-e5b2a5a0b98c",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 834
+                }
+            },
+            "PurchasableItemId": 972,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 40000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 40000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2501,
+                "FriendlyName": "Aristocrat Necklace (Ruby)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "jiBzrzDPkkuL6DqIFKpcCw,0S7Nqm2kv0qMDTh-5Wy0MQ,StxMBEprVkqMa_IoDG-Q9A,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 20,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 20,
+                "ItemSetFriendlyName": "Aristocrat (Red)",
+                "AvatarItemId": 837,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "0e9k0ehhqbwmok3pfnwg4a9k3.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "jiBzrzDPkkuL6DqIFKpcCw,0S7Nqm2kv0qMDTh-5Wy0MQ,StxMBEprVkqMa_IoDG-Q9A",
+                    "DownloadableAvatarItemId": "ea3ea86b-284e-47a1-932c-680b608c8623",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 837
+                }
+            },
+            "PurchasableItemId": 963,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 80000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 80000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2496,
+                "FriendlyName": "Aristocrat Jacket (Red)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "QCtqxbvYOkan79YFugH_Cw,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 20,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 20,
+                "ItemSetFriendlyName": "Aristocrat (Red)",
+                "AvatarItemId": 832,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "clebbebesxjzf8wnllqxmejvg.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "QCtqxbvYOkan79YFugH_Cw",
+                    "DownloadableAvatarItemId": "3dc5c399-a114-479a-8e1a-c0b40554d933",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 832
+                }
+            },
+            "PurchasableItemId": 971,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 120000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 120000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2509,
+                "FriendlyName": "Aristocrat Cuff (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "t9co2516nkuJO4LIJA1bJA,i5RKLo-RbEqisnGII1wpaQ,8kdJkmwNM0WQmMVrb8fK8A,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 21,
+                "ItemSetFriendlyName": "Aristocrat (Black)",
+                "AvatarItemId": 845,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "9zr3klyo948zva87e3ynyoij8.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "t9co2516nkuJO4LIJA1bJA,i5RKLo-RbEqisnGII1wpaQ,8kdJkmwNM0WQmMVrb8fK8A",
+                    "DownloadableAvatarItemId": "6a571ff8-d7ec-4610-b884-956960722ce3",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 845
+                }
+            },
+            "PurchasableItemId": 975,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 80000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 80000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2503,
+                "FriendlyName": "Aristocrat Necklace (Topaz)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "jiBzrzDPkkuL6DqIFKpcCw,F7luQ18ZXEaITFiCqqwkpg,StxMBEprVkqMa_IoDG-Q9A,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 21,
+                "ItemSetFriendlyName": "Aristocrat (Black)",
+                "AvatarItemId": 839,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dhvs55ab5etr8whu54dyu63mq.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "jiBzrzDPkkuL6DqIFKpcCw,F7luQ18ZXEaITFiCqqwkpg,StxMBEprVkqMa_IoDG-Q9A",
+                    "DownloadableAvatarItemId": "2fa18283-c46b-4d77-9490-9ce3f6091708",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 839
+                }
+            },
+            "PurchasableItemId": 965,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 160000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 160000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2505,
+                "FriendlyName": "Aristocrat Jacket (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "QCtqxbvYOkan79YFugH_Cw,i5RKLo-RbEqisnGII1wpaQ,xnxDimLvVUCI9tEJqWDDcA,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 21,
+                "ItemSetFriendlyName": "Aristocrat (Black)",
+                "AvatarItemId": 841,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "80vyoqh3t9fmtu13lcn8r3h87.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "QCtqxbvYOkan79YFugH_Cw,i5RKLo-RbEqisnGII1wpaQ,xnxDimLvVUCI9tEJqWDDcA",
+                    "DownloadableAvatarItemId": "602d85c9-6a0d-4b17-ab04-cabf071378a0",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 841
+                }
+            },
+            "PurchasableItemId": 973,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 240000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 240000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2510,
+                "FriendlyName": "Aristocrat Cuff (Midnight)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "t9co2516nkuJO4LIJA1bJA,jwEB6LyEaEekqtPNRc6TVA,8kdJkmwNM0WQmMVrb8fK8A,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 23,
+                "ItemSetFriendlyName": "Aristocrat (Midnight)",
+                "AvatarItemId": 846,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "01xxmh8nnuu5xc4oom2f1r1qj.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "t9co2516nkuJO4LIJA1bJA,jwEB6LyEaEekqtPNRc6TVA,8kdJkmwNM0WQmMVrb8fK8A",
+                    "DownloadableAvatarItemId": "a16d4b3c-f9cc-44c0-8a54-0a514f404d66",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 846
+                }
+            },
+            "PurchasableItemId": 976,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 200000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 200000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2502,
+                "FriendlyName": "Aristocrat Necklace (Amethyst)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "jiBzrzDPkkuL6DqIFKpcCw,poqpmOloPUKotHH9p0YAyw,StxMBEprVkqMa_IoDG-Q9A,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 23,
+                "ItemSetFriendlyName": "Aristocrat (Midnight)",
+                "AvatarItemId": 838,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "8dp37nmbznt4ddn3fpjb7i882.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "jiBzrzDPkkuL6DqIFKpcCw,poqpmOloPUKotHH9p0YAyw,StxMBEprVkqMa_IoDG-Q9A",
+                    "DownloadableAvatarItemId": "380193cf-648e-4ea0-8447-94dfd43a5059",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 838
+                }
+            },
+            "PurchasableItemId": 964,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 400000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 400000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2506,
+                "FriendlyName": "Aristocrat Jacket (Midnight)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "QCtqxbvYOkan79YFugH_Cw,IzkFARlv6EenmrfcNkcOuw,xnxDimLvVUCI9tEJqWDDcA,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": -1,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 23,
+                "ItemSetFriendlyName": "Aristocrat (Midnight)",
+                "AvatarItemId": 842,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "40s4vjnqn68azxmiparci9gtm.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "QCtqxbvYOkan79YFugH_Cw,IzkFARlv6EenmrfcNkcOuw,xnxDimLvVUCI9tEJqWDDcA",
+                    "DownloadableAvatarItemId": "2e60a7a3-12e8-49b6-a1c5-547226a46d1b",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 842
+                }
+            },
+            "PurchasableItemId": 974,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 600000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 600000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2627,
+                "FriendlyName": "Red Apples",
+                "Tooltip": "A basket of apples to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "uMHrUPLYFk2rJOW_uop5Aw",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": 4205,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 25,
+                "ItemSetFriendlyName": "Dracula's Spoils",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "7rpdksfkh3fp7dc3nnkho1ft9.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 1003,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 50,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                },
+                {
+                    "CurrencyType": 101,
+                    "Price": 4000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 45,
+                    "StorefrontSaleData": null
+                },
+                {
+                    "CurrencyType": 101,
+                    "Price": 4000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2628,
+                "FriendlyName": "High Five Potion (Whip Crack)",
+                "Tooltip": "Give whip crack high fives for a time.",
+                "TagList": "",
+                "ConsumableItemDesc": "lag2tZyB90W04lQ7ol4vMw",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": 4205,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 25,
+                "ItemSetFriendlyName": "Dracula's Spoils",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "9f2869wkrjqm0k86pvb5lq5h5.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 1004,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 3000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 3000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2641,
+                "FriendlyName": "Film (Dracula)",
+                "Tooltip": "Take some photos with Dracula!",
+                "TagList": "",
+                "ConsumableItemDesc": "oG7CdvW7p0-S8sVe9w5vRw",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": 4205,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 25,
+                "ItemSetFriendlyName": "Dracula's Spoils",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "456e5jv3smaqt7hzd81myhob2.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 1092,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 2000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 101,
+                    "Price": 2000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        }
+    ],
+    "SubscriberDiscountPercent": 10,
+    "StorefrontName": null,
+    "StorefrontType": 101,
+    "NextUpdate": "2222-02-22T22:22:00Z",
+    "NewUntil": null
+}

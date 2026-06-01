@@ -1,0 +1,2738 @@
+{
+    "StoreItems": [
+        {
+            "GiftDrop": {
+                "GiftDropId": 3852,
+                "FriendlyName": "Bucket Skin (SciFi)",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "[Bucket]",
+                "EquipmentModificationGuid": "VW3WV6oQOkqYshf1xc9n3A",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 39,
+                "ItemSetFriendlyName": "Carpet Couture",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 263,
+                "ThumbnailImageName": "2yu93lnnjj0imorechc3ip0jw.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 2100,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 100000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 100000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": "2021-07-02T21:00:00Z",
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1901,
+                "FriendlyName": "RECS Shirt (White)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,bde08851-a9e4-4faa-8f04-a0a661672472,0440f08f-ef1d-49d8-942b-523056e8bb45,237e0aa2-5911-4704-8d2a-d446ddd2d842",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 36,
+                "ItemSetFriendlyName": "Hangar Tees",
+                "AvatarItemId": 566,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "bp1j53987blav97zjuw9die57.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,bde08851-a9e4-4faa-8f04-a0a661672472,0440f08f-ef1d-49d8-942b-523056e8bb45,237e0aa2-5911-4704-8d2a-d446ddd2d842",
+                    "DownloadableAvatarItemId": "af4a5974-4c4d-4310-b22e-08b082aba910",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 566
+                }
+            },
+            "PurchasableItemId": 475,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 700,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 700,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1915,
+                "FriendlyName": "RECS Shirt (Green)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,5e7a48ed-8f08-4990-a3ae-05722c9f59a8,0440f08f-ef1d-49d8-942b-523056e8bb45,237e0aa2-5911-4704-8d2a-d446ddd2d842",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 36,
+                "ItemSetFriendlyName": "Hangar Tees",
+                "AvatarItemId": 578,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "afeyng27plnoeojutrac3dvvj.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,5e7a48ed-8f08-4990-a3ae-05722c9f59a8,0440f08f-ef1d-49d8-942b-523056e8bb45,237e0aa2-5911-4704-8d2a-d446ddd2d842",
+                    "DownloadableAvatarItemId": "62e4b78e-6065-4087-a7a4-3db35f64cde6",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 578
+                }
+            },
+            "PurchasableItemId": 487,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 700,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 700,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1903,
+                "FriendlyName": "Robo Logo Shirt (Pink)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,4d52bbd6-ef74-45ae-a6c2-bde10ab8eb16,0440f08f-ef1d-49d8-942b-523056e8bb45,4ca3347a-dc87-412f-9eb1-799372e6fdd1",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 36,
+                "ItemSetFriendlyName": "Hangar Tees",
+                "AvatarItemId": 568,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "92ns2hqejpkog0560clmw3qjv.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,4d52bbd6-ef74-45ae-a6c2-bde10ab8eb16,0440f08f-ef1d-49d8-942b-523056e8bb45,4ca3347a-dc87-412f-9eb1-799372e6fdd1",
+                    "DownloadableAvatarItemId": "ccb245a4-6c50-4c4c-a377-c180c5a13b29",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 568
+                }
+            },
+            "PurchasableItemId": 477,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 700,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 700,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1904,
+                "FriendlyName": "Robo Logo Shirt (Blue)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,bda7a57e-5227-49f4-a119-e3f166604738,0440f08f-ef1d-49d8-942b-523056e8bb45,4ca3347a-dc87-412f-9eb1-799372e6fdd1",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 36,
+                "ItemSetFriendlyName": "Hangar Tees",
+                "AvatarItemId": 569,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "3tf587nd10cq6wv4dr1lk0r9p.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,bda7a57e-5227-49f4-a119-e3f166604738,0440f08f-ef1d-49d8-942b-523056e8bb45,4ca3347a-dc87-412f-9eb1-799372e6fdd1",
+                    "DownloadableAvatarItemId": "dbb6cea5-5c2c-482b-8ecf-50fc60a505cb",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 569
+                }
+            },
+            "PurchasableItemId": 478,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 700,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 700,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1905,
+                "FriendlyName": "Squad Goals Shirt",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,941c046e-4e95-49f8-a7d7-19071fcc3c94,0440f08f-ef1d-49d8-942b-523056e8bb45,6c395d04-2aa6-4a3e-8c2c-695932bc9736",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 36,
+                "ItemSetFriendlyName": "Hangar Tees",
+                "AvatarItemId": 570,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "85nms7ezyti5i4wp8l9azl90l.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,941c046e-4e95-49f8-a7d7-19071fcc3c94,0440f08f-ef1d-49d8-942b-523056e8bb45,6c395d04-2aa6-4a3e-8c2c-695932bc9736",
+                    "DownloadableAvatarItemId": "24882f2b-a796-486b-9269-0050ea4aac37",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 570
+                }
+            },
+            "PurchasableItemId": 479,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1908,
+                "FriendlyName": "Hang In There Shirt",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,815138e6-b0dc-459c-9538-20f5bbd37d6b,0440f08f-ef1d-49d8-942b-523056e8bb45,8f19d7f9-4f28-48ab-a1c5-d8f4f788514c",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 36,
+                "ItemSetFriendlyName": "Hangar Tees",
+                "AvatarItemId": 573,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "eu5x1j13qp2b88ukdkh7eax1v.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,815138e6-b0dc-459c-9538-20f5bbd37d6b,0440f08f-ef1d-49d8-942b-523056e8bb45,8f19d7f9-4f28-48ab-a1c5-d8f4f788514c",
+                    "DownloadableAvatarItemId": "2be70f0d-add1-485f-a1ac-7956b704cb73",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 573
+                }
+            },
+            "PurchasableItemId": 482,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1895,
+                "FriendlyName": "KO Skull Shirt (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,381a9f13-5b44-48e6-8a49-221422a963f5,0440f08f-ef1d-49d8-942b-523056e8bb45,9e782751-71c6-4208-87da-3a3cffa6a4f0",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 36,
+                "ItemSetFriendlyName": "Hangar Tees",
+                "AvatarItemId": 562,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "69q96bwnfq08dvg7z8i3423dd.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,381a9f13-5b44-48e6-8a49-221422a963f5,0440f08f-ef1d-49d8-942b-523056e8bb45,9e782751-71c6-4208-87da-3a3cffa6a4f0",
+                    "DownloadableAvatarItemId": "50800bb0-e7ef-49b6-9abb-50e4230845fb",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 562
+                }
+            },
+            "PurchasableItemId": 470,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1907,
+                "FriendlyName": "KO Skull Shirt (Pink)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,fe304452-b57b-45bc-9c1c-b85b70bcec12,0440f08f-ef1d-49d8-942b-523056e8bb45,6a007c73-d930-408a-93df-041a715e0dd4",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 36,
+                "ItemSetFriendlyName": "Hangar Tees",
+                "AvatarItemId": 572,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dckjq7bzoptwnhc7299yac8sm.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,fe304452-b57b-45bc-9c1c-b85b70bcec12,0440f08f-ef1d-49d8-942b-523056e8bb45,6a007c73-d930-408a-93df-041a715e0dd4",
+                    "DownloadableAvatarItemId": "a7b4dcd8-8599-4d40-b5af-70f4bd5be6c5",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 572
+                }
+            },
+            "PurchasableItemId": 481,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2298,
+                "FriendlyName": "Cyber Junk City Shirt",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,nLRxEIBhUkyQsfrk3nzsDA,0440f08f-ef1d-49d8-942b-523056e8bb45,n4hqSCv9OUewI30KnbPhFw",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 37,
+                "ItemSetFriendlyName": "Cyber Junk Tees",
+                "AvatarItemId": 738,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "5k6xiv9l2oaeteyfht5ak4epq.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,nLRxEIBhUkyQsfrk3nzsDA,0440f08f-ef1d-49d8-942b-523056e8bb45,n4hqSCv9OUewI30KnbPhFw",
+                    "DownloadableAvatarItemId": "38a9884e-7a71-4229-84be-7f073bf5ac4e",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 738
+                }
+            },
+            "PurchasableItemId": 848,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2293,
+                "FriendlyName": "Cyber Trash Shirt (Yellow)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,Ib_iMwvUm0CJ-t_Thwt77Q,0440f08f-ef1d-49d8-942b-523056e8bb45,d42UBeUO4UO3Q2F8IpeRbQ",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 37,
+                "ItemSetFriendlyName": "Cyber Junk Tees",
+                "AvatarItemId": 733,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "70j1efvr06uolk29w6i31vbbq.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,Ib_iMwvUm0CJ-t_Thwt77Q,0440f08f-ef1d-49d8-942b-523056e8bb45,d42UBeUO4UO3Q2F8IpeRbQ",
+                    "DownloadableAvatarItemId": "1830cbce-49d9-48af-9c52-8243a9387281",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 733
+                }
+            },
+            "PurchasableItemId": 847,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 7500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 7500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2294,
+                "FriendlyName": "Cyber Trash Shirt (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,yaQ7AlUc3kGq8_RW3eTSmQ,0440f08f-ef1d-49d8-942b-523056e8bb45,d42UBeUO4UO3Q2F8IpeRbQ",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 37,
+                "ItemSetFriendlyName": "Cyber Junk Tees",
+                "AvatarItemId": 734,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "8o1cue9ixf7cfijq9eqg5xk8j.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,yaQ7AlUc3kGq8_RW3eTSmQ,0440f08f-ef1d-49d8-942b-523056e8bb45,d42UBeUO4UO3Q2F8IpeRbQ",
+                    "DownloadableAvatarItemId": "37ca8e6f-18ef-4202-b65f-87be34563cf3",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 734
+                }
+            },
+            "PurchasableItemId": 849,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 7500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 7500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2292,
+                "FriendlyName": "Emerald Syndicate Shirt",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,jna5wcWK90WokJyoeJH1iw,0440f08f-ef1d-49d8-942b-523056e8bb45,0qh4mcxJH0Wsrb3nz8UeGw",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 37,
+                "ItemSetFriendlyName": "Cyber Junk Tees",
+                "AvatarItemId": 732,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "4yagacwve48lrxa8yoo14k83r.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,jna5wcWK90WokJyoeJH1iw,0440f08f-ef1d-49d8-942b-523056e8bb45,0qh4mcxJH0Wsrb3nz8UeGw",
+                    "DownloadableAvatarItemId": "5a12e8de-6799-4387-8bec-07111c569f93",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 732
+                }
+            },
+            "PurchasableItemId": 843,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 5000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 5000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2296,
+                "FriendlyName": "Laser Graffiti Shirt",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,g4diCmk0wEmIKUVozk9tDA,0440f08f-ef1d-49d8-942b-523056e8bb45,nHg4Uifww0GEX15L27WonA",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 37,
+                "ItemSetFriendlyName": "Cyber Junk Tees",
+                "AvatarItemId": 736,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "aqkgdsqeztkohtgzqy9eu3ee6.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,g4diCmk0wEmIKUVozk9tDA,0440f08f-ef1d-49d8-942b-523056e8bb45,nHg4Uifww0GEX15L27WonA",
+                    "DownloadableAvatarItemId": "4406ccb5-68ba-458e-b723-50c2faedb92f",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 736
+                }
+            },
+            "PurchasableItemId": 845,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 3000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 3000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2297,
+                "FriendlyName": "Hack Graffiti Shirt",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,jna5wcWK90WokJyoeJH1iw,0440f08f-ef1d-49d8-942b-523056e8bb45,MPfe2wahQECCDGfhZE-drA",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 37,
+                "ItemSetFriendlyName": "Cyber Junk Tees",
+                "AvatarItemId": 737,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "8q53ymq8bhq82a6s9fqt8a814.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,jna5wcWK90WokJyoeJH1iw,0440f08f-ef1d-49d8-942b-523056e8bb45,MPfe2wahQECCDGfhZE-drA",
+                    "DownloadableAvatarItemId": "8cb27c70-578a-41b8-8fef-7fb8edc7aa4c",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 737
+                }
+            },
+            "PurchasableItemId": 844,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 3000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 3000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2291,
+                "FriendlyName": "Rebel Rose Shirt",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,rnM1qDlYBU6_Dl1bjg0J1Q,0440f08f-ef1d-49d8-942b-523056e8bb45,OZb8bb5FNUuFYOkwANvxAA",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 37,
+                "ItemSetFriendlyName": "Cyber Junk Tees",
+                "AvatarItemId": 731,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2w7aitx6z9si6pezgai622y01.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,rnM1qDlYBU6_Dl1bjg0J1Q,0440f08f-ef1d-49d8-942b-523056e8bb45,OZb8bb5FNUuFYOkwANvxAA",
+                    "DownloadableAvatarItemId": "481eb996-ce36-48e5-9f33-6a96d39c9740",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 731
+                }
+            },
+            "PurchasableItemId": 842,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 5000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 5000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1906,
+                "FriendlyName": "Alpaca Shirt",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,941c046e-4e95-49f8-a7d7-19071fcc3c94,0440f08f-ef1d-49d8-942b-523056e8bb45,703ff56b-560d-4ff4-8c63-d195e879a328",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 38,
+                "ItemSetFriendlyName": "Premium Tees",
+                "AvatarItemId": 571,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "19u0u4m2c6wsyaocczd4hv6pd.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,941c046e-4e95-49f8-a7d7-19071fcc3c94,0440f08f-ef1d-49d8-942b-523056e8bb45,703ff56b-560d-4ff4-8c63-d195e879a328",
+                    "DownloadableAvatarItemId": "628b8f18-b3b1-4c2a-b221-1f5a71f52f96",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 571
+                }
+            },
+            "PurchasableItemId": 480,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 10000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 10000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1902,
+                "FriendlyName": "Laser Unicorn Shirt",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,befa2f11-b9fd-457c-b1d5-9d82e90b70ce,0440f08f-ef1d-49d8-942b-523056e8bb45,770e7674-6f9b-41f8-b023-ae79738db0d3",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 38,
+                "ItemSetFriendlyName": "Premium Tees",
+                "AvatarItemId": 567,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "5fseh1kw7c5ej962dbiugr5ns.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,befa2f11-b9fd-457c-b1d5-9d82e90b70ce,0440f08f-ef1d-49d8-942b-523056e8bb45,770e7674-6f9b-41f8-b023-ae79738db0d3",
+                    "DownloadableAvatarItemId": "c2e8b9e0-28f4-4831-907d-02d5f305107c",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 567
+                }
+            },
+            "PurchasableItemId": 476,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 10000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 10000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2295,
+                "FriendlyName": "No Laser Ham Shirt",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,dDLQbD9jtkOmw3PR5QJdfg,0440f08f-ef1d-49d8-942b-523056e8bb45,2tFUNn-4kkK6ICo_Zp065g",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 38,
+                "ItemSetFriendlyName": "Premium Tees",
+                "AvatarItemId": 735,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2ad06ofz4ewso7onvvyfzerog.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,dDLQbD9jtkOmw3PR5QJdfg,0440f08f-ef1d-49d8-942b-523056e8bb45,2tFUNn-4kkK6ICo_Zp065g",
+                    "DownloadableAvatarItemId": "c884a123-909c-472c-b3cc-05105be6e89e",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 735
+                }
+            },
+            "PurchasableItemId": 846,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 15000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 15000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2299,
+                "FriendlyName": "Hyper Noodle Shirt",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,M1JVd5ur7U2ZtpvhEhPNhw,0440f08f-ef1d-49d8-942b-523056e8bb45,tzMFIJyxZE6cZNuLdaKs7w",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 38,
+                "ItemSetFriendlyName": "Premium Tees",
+                "AvatarItemId": 739,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "agqloaqzftkyi0wa9v9j439d0.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,M1JVd5ur7U2ZtpvhEhPNhw,0440f08f-ef1d-49d8-942b-523056e8bb45,tzMFIJyxZE6cZNuLdaKs7w",
+                    "DownloadableAvatarItemId": "327f9c14-11c4-4467-9a3d-e0e2dd278325",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 739
+                }
+            },
+            "PurchasableItemId": 850,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 25000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 25000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 15706,
+                "FriendlyName": "Hang In There Shirt (Periwinkle)",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": "337beda8-c474-456d-af73-d1da0d306d24",
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 38,
+                "ItemSetFriendlyName": "Premium Tees",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": null,
+                "AvatarItemInfo": {
+                    "Version": 3,
+                    "LegacyAvatarItemDesc": null,
+                    "DownloadableAvatarItemId": "337beda8-c474-456d-af73-d1da0d306d24",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": null
+                }
+            },
+            "PurchasableItemId": 29702,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2017,
+                "FriendlyName": "High Five Potion (Laser)",
+                "Tooltip": "Give futuristic high fives for a time.",
+                "TagList": "",
+                "ConsumableItemDesc": "xHOwjwpXd0GDkvBz2VqieA",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 38,
+                "ItemSetFriendlyName": "Premium Tees",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "abh75iyydsdckq97ybkahplig.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 577,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 150,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 150,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1897,
+                "FriendlyName": "Headband (SciFi)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "40528de7-38a3-4a7c-8f93-6d3bfa5573f2,0809a5cf-a0f3-4614-9f98-71518524518a,3290f148-1bd1-4ffd-a947-61fd0529af05,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 39,
+                "ItemSetFriendlyName": "Carpet Couture",
+                "AvatarItemId": 563,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "ckopqewba1tguffkue6s78rc3.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "40528de7-38a3-4a7c-8f93-6d3bfa5573f2,0809a5cf-a0f3-4614-9f98-71518524518a,3290f148-1bd1-4ffd-a947-61fd0529af05",
+                    "DownloadableAvatarItemId": "0323de18-5626-44e8-83f5-c4cbbcca72e9",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 563
+                }
+            },
+            "PurchasableItemId": 472,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1898,
+                "FriendlyName": "Wristbands (SciFi)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "ecc1dbe6-ca06-4564-b2a6-30956194d1e9,0809a5cf-a0f3-4614-9f98-71518524518a,3290f148-1bd1-4ffd-a947-61fd0529af05,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 39,
+                "ItemSetFriendlyName": "Carpet Couture",
+                "AvatarItemId": 564,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "btwnqsv2torue6ekxyp3zudoe.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "ecc1dbe6-ca06-4564-b2a6-30956194d1e9,0809a5cf-a0f3-4614-9f98-71518524518a,3290f148-1bd1-4ffd-a947-61fd0529af05",
+                    "DownloadableAvatarItemId": "38879869-129a-4234-a512-8138ce90c344",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 564
+                }
+            },
+            "PurchasableItemId": 473,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2046,
+                "FriendlyName": "Bow (SciFi)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "1e504fee-b593-4037-bd8f-b88025147991,0809a5cf-a0f3-4614-9f98-71518524518a,3290f148-1bd1-4ffd-a947-61fd0529af05,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 39,
+                "ItemSetFriendlyName": "Carpet Couture",
+                "AvatarItemId": 631,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2d53cleqqzz1la8h0m130s58q.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "1e504fee-b593-4037-bd8f-b88025147991,0809a5cf-a0f3-4614-9f98-71518524518a,3290f148-1bd1-4ffd-a947-61fd0529af05",
+                    "DownloadableAvatarItemId": "12fe26ce-63bc-4873-b4e6-225571dee5f6",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 631
+                }
+            },
+            "PurchasableItemId": 603,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2060,
+                "FriendlyName": "Top Hat (Black, SciFi)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "102c625b-b988-4bf8-a2aa-a31ad7029cdc,bd4a84e2-b67a-4269-a26a-17fb23ddb09e,ccf1ccc1-e229-4157-bb74-f2cdef01e547,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 39,
+                "ItemSetFriendlyName": "Carpet Couture",
+                "AvatarItemId": 645,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "d8wvm262ivsmterpwyjcf0d3i.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "102c625b-b988-4bf8-a2aa-a31ad7029cdc,bd4a84e2-b67a-4269-a26a-17fb23ddb09e,ccf1ccc1-e229-4157-bb74-f2cdef01e547",
+                    "DownloadableAvatarItemId": "18692350-d8ae-40b4-9c34-95e551179305",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 645
+                }
+            },
+            "PurchasableItemId": 617,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 25000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 25000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2063,
+                "FriendlyName": "Bowtie (SciFi)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "83be5ba4-525a-4781-a5f6-839c22e4d1d3,0809a5cf-a0f3-4614-9f98-71518524518a,3290f148-1bd1-4ffd-a947-61fd0529af05,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 39,
+                "ItemSetFriendlyName": "Carpet Couture",
+                "AvatarItemId": 648,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "7lwepk9pha13ajtddc8yjp6i5.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "83be5ba4-525a-4781-a5f6-839c22e4d1d3,0809a5cf-a0f3-4614-9f98-71518524518a,3290f148-1bd1-4ffd-a947-61fd0529af05",
+                    "DownloadableAvatarItemId": "a09011f9-d76b-4304-bd19-d1be02e6f976",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 648
+                }
+            },
+            "PurchasableItemId": 620,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2064,
+                "FriendlyName": "Business Tie (SciFi)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "c6c08eb5-381a-4193-9722-80da95d62abe,0809a5cf-a0f3-4614-9f98-71518524518a,8212812b-e7e7-4f6d-aa27-d1112af45473,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 39,
+                "ItemSetFriendlyName": "Carpet Couture",
+                "AvatarItemId": 649,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dftbch1qkdqq457hq33rhhz9h.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "c6c08eb5-381a-4193-9722-80da95d62abe,0809a5cf-a0f3-4614-9f98-71518524518a,8212812b-e7e7-4f6d-aa27-d1112af45473",
+                    "DownloadableAvatarItemId": "dba4a5ca-1293-4ccd-a0d5-94b653f2bfdd",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 649
+                }
+            },
+            "PurchasableItemId": 621,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2028,
+                "FriendlyName": "Film (Jumbotron)",
+                "Tooltip": "Take some photos with Jumbotron!",
+                "TagList": "",
+                "ConsumableItemDesc": "Il4VmrnjDkqjmjzddqoIEw",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 38,
+                "ItemSetFriendlyName": "Premium Tees",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "c2k6n7fvjgd7secn55ndqgz5s.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 585,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 100,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 100,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1910,
+                "FriendlyName": "Laser Tag Sensors (Blue)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "24d94673-f394-42e6-a3c8-276f8b8aa722,08b7c12d-3317-4d27-9b40-34737a709454,959ed05b-0215-4bbe-bb3d-64e4448d676b,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 40,
+                "ItemSetFriendlyName": "Laser Tag Outfit (Blue)",
+                "AvatarItemId": 575,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "1gwx6x19onp32q7iolw1hdeck.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "24d94673-f394-42e6-a3c8-276f8b8aa722,08b7c12d-3317-4d27-9b40-34737a709454,959ed05b-0215-4bbe-bb3d-64e4448d676b",
+                    "DownloadableAvatarItemId": "3d936f24-bc9c-4ee9-b748-ae7a4dcba645",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 575
+                }
+            },
+            "PurchasableItemId": 484,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1918,
+                "FriendlyName": "Laser Tag Gloves (Blue)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "3044adce-90c0-4f66-81f5-39c4fca86fdf,426d0592-f8e4-4bc6-9fe1-a62b91fd57d5,3b825377-d2eb-41e4-a736-b107f88f62d6,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 40,
+                "ItemSetFriendlyName": "Laser Tag Outfit (Blue)",
+                "AvatarItemId": 581,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dzm37a1dmgdsj0aetwi19afes.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "3044adce-90c0-4f66-81f5-39c4fca86fdf,426d0592-f8e4-4bc6-9fe1-a62b91fd57d5,3b825377-d2eb-41e4-a736-b107f88f62d6",
+                    "DownloadableAvatarItemId": "511577f1-56d4-4fa2-a4ec-d295662b9320",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 581
+                }
+            },
+            "PurchasableItemId": 489,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 950,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 950,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2669,
+                "FriendlyName": "Laser Tag Visor (Blue)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "123de433-a005-4994-8a11-d2d84ad66b11,426d0592-f8e4-4bc6-9fe1-a62b91fd57d5,4e378419-d043-4e86-ad0e-66288ac21cf4,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 40,
+                "ItemSetFriendlyName": "Laser Tag Outfit (Blue)",
+                "AvatarItemId": 580,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "81x4cfhnckh1a4ni8mxn9trzj.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "123de433-a005-4994-8a11-d2d84ad66b11,426d0592-f8e4-4bc6-9fe1-a62b91fd57d5,4e378419-d043-4e86-ad0e-66288ac21cf4",
+                    "DownloadableAvatarItemId": "95ff99d6-8931-4c5d-b5f1-4eec637cc3a9",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 580
+                }
+            },
+            "PurchasableItemId": 1190,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1909,
+                "FriendlyName": "Laser Tag Sensors (Pink)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "24d94673-f394-42e6-a3c8-276f8b8aa722,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 43,
+                "ItemSetFriendlyName": "Laser Tag Outfit (Pink)",
+                "AvatarItemId": 574,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "0mhwz2ogugpedmv34mtp8p649.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "24d94673-f394-42e6-a3c8-276f8b8aa722",
+                    "DownloadableAvatarItemId": "1572e954-8871-47f8-b629-578f6a841eec",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 574
+                }
+            },
+            "PurchasableItemId": 483,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1916,
+                "FriendlyName": "Laser Tag Gloves (Pink)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "3044adce-90c0-4f66-81f5-39c4fca86fdf,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 43,
+                "ItemSetFriendlyName": "Laser Tag Outfit (Pink)",
+                "AvatarItemId": 579,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "15nrb536jxz09ck6emxavel7l.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "3044adce-90c0-4f66-81f5-39c4fca86fdf",
+                    "DownloadableAvatarItemId": "8d07008d-8fad-4a59-93e7-43b59601b0b0",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 579
+                }
+            },
+            "PurchasableItemId": 488,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 950,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 950,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1911,
+                "FriendlyName": "Laser Tag Visor (Pink)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "123de433-a005-4994-8a11-d2d84ad66b11,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 43,
+                "ItemSetFriendlyName": "Laser Tag Outfit (Pink)",
+                "AvatarItemId": 576,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "500ajcxzkdjvi2db9ev74rstc.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "123de433-a005-4994-8a11-d2d84ad66b11",
+                    "DownloadableAvatarItemId": "86121e9a-700d-4d87-9012-63484a966959",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 576
+                }
+            },
+            "PurchasableItemId": 485,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2303,
+                "FriendlyName": "Laser Tag Sensors (Teal)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "24d94673-f394-42e6-a3c8-276f8b8aa722,2Z_FxSPiyUODtlFZWF9DFQ,959ed05b-0215-4bbe-bb3d-64e4448d676b,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 42,
+                "ItemSetFriendlyName": "Laser Tag Outfit (Teal)",
+                "AvatarItemId": 743,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2mtxs666msasqmqw57iol4efk.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "24d94673-f394-42e6-a3c8-276f8b8aa722,2Z_FxSPiyUODtlFZWF9DFQ,959ed05b-0215-4bbe-bb3d-64e4448d676b",
+                    "DownloadableAvatarItemId": "e7315535-6e22-4f2d-9cb2-f87f3209dedf",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 743
+                }
+            },
+            "PurchasableItemId": 838,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2305,
+                "FriendlyName": "Laser Tag Gloves (Teal)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "3044adce-90c0-4f66-81f5-39c4fca86fdf,mhsglVEtREmElF5wuLw3NQ,3b825377-d2eb-41e4-a736-b107f88f62d6,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 42,
+                "ItemSetFriendlyName": "Laser Tag Outfit (Teal)",
+                "AvatarItemId": 745,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "13cf7bho89ewryskk93gh33it.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "3044adce-90c0-4f66-81f5-39c4fca86fdf,mhsglVEtREmElF5wuLw3NQ,3b825377-d2eb-41e4-a736-b107f88f62d6",
+                    "DownloadableAvatarItemId": "79799be2-fd1d-44b6-b7b4-82a6c79387f7",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 745
+                }
+            },
+            "PurchasableItemId": 840,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 950,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 950,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2301,
+                "FriendlyName": "Laser Tag Visor (Teal)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "123de433-a005-4994-8a11-d2d84ad66b11,-e6bmXnwZU2EVwZ8RupKbg,4e378419-d043-4e86-ad0e-66288ac21cf4,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 42,
+                "ItemSetFriendlyName": "Laser Tag Outfit (Teal)",
+                "AvatarItemId": 741,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "1mu93bk5rhp7yqekc2k5aukn9.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "123de433-a005-4994-8a11-d2d84ad66b11,-e6bmXnwZU2EVwZ8RupKbg,4e378419-d043-4e86-ad0e-66288ac21cf4",
+                    "DownloadableAvatarItemId": "b4f2f2ff-20d5-4076-9174-699b1c826ab1",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 741
+                }
+            },
+            "PurchasableItemId": 836,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2302,
+                "FriendlyName": "Laser Tag Sensors (Orange)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "24d94673-f394-42e6-a3c8-276f8b8aa722,jkuw9EhCpEKn-2lKJXWd3Q,959ed05b-0215-4bbe-bb3d-64e4448d676b,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 41,
+                "ItemSetFriendlyName": "Laser Tag Outfit (Orange)",
+                "AvatarItemId": 742,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "4b2c3lu6x2lix8wwu23es1z9t.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "24d94673-f394-42e6-a3c8-276f8b8aa722,jkuw9EhCpEKn-2lKJXWd3Q,959ed05b-0215-4bbe-bb3d-64e4448d676b",
+                    "DownloadableAvatarItemId": "63eb26cf-c711-4c0e-87ef-b64cdb1d451c",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 742
+                }
+            },
+            "PurchasableItemId": 839,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2304,
+                "FriendlyName": "Laser Tag Gloves (Orange)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "3044adce-90c0-4f66-81f5-39c4fca86fdf,EC0ttvk6eU2HEMacLAx2Iw,3b825377-d2eb-41e4-a736-b107f88f62d6,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 41,
+                "ItemSetFriendlyName": "Laser Tag Outfit (Orange)",
+                "AvatarItemId": 744,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "0qqunbtr2dxrzl797zjamcpg9.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "3044adce-90c0-4f66-81f5-39c4fca86fdf,EC0ttvk6eU2HEMacLAx2Iw,3b825377-d2eb-41e4-a736-b107f88f62d6",
+                    "DownloadableAvatarItemId": "aff74ace-8a64-4132-b315-4b9fbc0c4a9c",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 744
+                }
+            },
+            "PurchasableItemId": 841,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 950,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 950,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2300,
+                "FriendlyName": "Laser Tag Visor (Orange)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "123de433-a005-4994-8a11-d2d84ad66b11,oT1vLrHW6UC2hWLIT3f_SQ,4e378419-d043-4e86-ad0e-66288ac21cf4,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": -1,
+                "Context": 100000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 41,
+                "ItemSetFriendlyName": "Laser Tag Outfit (Orange)",
+                "AvatarItemId": 740,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "9z5r4i4elegluux9nocggv8lh.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "123de433-a005-4994-8a11-d2d84ad66b11,oT1vLrHW6UC2hWLIT3f_SQ,4e378419-d043-4e86-ad0e-66288ac21cf4",
+                    "DownloadableAvatarItemId": "dfd633de-0c99-40df-b03a-03206cd3bdc6",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 740
+                }
+            },
+            "PurchasableItemId": 837,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 1,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        }
+    ],
+    "SubscriberDiscountPercent": 10,
+    "StorefrontName": null,
+    "StorefrontType": 1,
+    "NextUpdate": "2222-02-22T22:22:00Z",
+    "NewUntil": null
+}

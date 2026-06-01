@@ -1,0 +1,489 @@
+{
+    "StoreItems": [
+        {
+            "GiftDrop": {
+                "GiftDropId": 2011,
+                "FriendlyName": "Root Beer",
+                "Tooltip": "A sixer of root beer to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "JfnVXFmilU6ysv-VbTAe3A",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dftf7822mxh6qptcetqjpetcs.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 572,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 50,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 45,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2471,
+                "FriendlyName": "Salted Pretzels",
+                "Tooltip": "A great snack to share with friends!",
+                "TagList": "",
+                "ConsumableItemDesc": "InQ25wQMGkG_bvuD5rf2Ag",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 0,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 52,
+                "ItemSetFriendlyName": "Snickety Snacks",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "1tnsrjjgvznlbhgm9zoakypgl.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 921,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 75,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 67,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2470,
+                "FriendlyName": "Hawaiian Pizza",
+                "Tooltip": "A ham and pineapple pizza to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "_jnjYGBcyEWY5Ub4OezXcA",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 33,
+                "ItemSetFriendlyName": "Pizza Aplenty",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "74lfyx269i9ouxfkm2dh8xo6f.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 922,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 95,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 85,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2326,
+                "FriendlyName": "Assorted Donuts",
+                "Tooltip": "A dozen assorted donuts to share with friends.",
+                "TagList": "",
+                "ConsumableItemDesc": "ZuvkidodzkuOfGLDnTOFyg",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 20,
+                "Context": 110000,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 34,
+                "ItemSetFriendlyName": "Donuts by the Dozen",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dvtzzncutq8z5gcpx378mli8k.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 857,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 100,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 90,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2563,
+                "FriendlyName": "Bowling Shirt (Runway)",
+                "Tooltip": null,
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,GDvaUU10-EKh3pKUQ9tnag,b-IM3eYMJUa40395O5XeLg,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 20,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 890,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "1uwainjpb5gco3zqlgd0ofvkm.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,GDvaUU10-EKh3pKUQ9tnag,b-IM3eYMJUa40395O5XeLg",
+                    "DownloadableAvatarItemId": "00ac2204-f1e3-4efd-8b81-496558e4a97b",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 890
+                }
+            },
+            "PurchasableItemId": 1050,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 600,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 540,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2556,
+                "FriendlyName": "Bowling Shirt (Lily)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,yrQCLXiqRUSwnuQRYX2Rsw,VO_3cgqQqUOTz30TVUxrFA,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 883,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "3lw7exr10ocq54wlzytnktw7h.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,yrQCLXiqRUSwnuQRYX2Rsw,VO_3cgqQqUOTz30TVUxrFA",
+                    "DownloadableAvatarItemId": "8c5353b7-9131-4e93-89f3-5d5f522514db",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 883
+                }
+            },
+            "PurchasableItemId": 1052,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 720,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2561,
+                "FriendlyName": "Bowling Shirt (Flames, Blue)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,032pE8s9Ik-2CImFVDrSqg,5RUG6i2Mx0-55IO-IlhUdQ,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 888,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "2ib04jli4dwo8vm3pm3qmk46c.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,032pE8s9Ik-2CImFVDrSqg,5RUG6i2Mx0-55IO-IlhUdQ",
+                    "DownloadableAvatarItemId": "54216b3e-1630-4ee1-8078-e1a854aee0f9",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 888
+                }
+            },
+            "PurchasableItemId": 1047,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 900,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2475,
+                "FriendlyName": "Bowling Shirt (Flames, Red)",
+                "Tooltip": "",
+                "TagList": "",
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,8xjU4GQ4OkaqGyad-ypwtw,5RUG6i2Mx0-55IO-IlhUdQ,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 813,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "ewgjupwpbyyvetn7svdbg3pka.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,8xjU4GQ4OkaqGyad-ypwtw,5RUG6i2Mx0-55IO-IlhUdQ",
+                    "DownloadableAvatarItemId": "d9d05fd9-59be-448e-a1df-f7c0450f824a",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 813
+                }
+            },
+            "PurchasableItemId": 944,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 900,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        }
+    ],
+    "SubscriberDiscountPercent": 10,
+    "StorefrontName": null,
+    "StorefrontType": 500,
+    "NextUpdate": "2222-02-22T22:22:00Z",
+    "NewUntil": null
+}

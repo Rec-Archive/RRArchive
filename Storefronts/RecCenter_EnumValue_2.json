@@ -1,0 +1,747 @@
+{
+    "StoreItems": [
+        {
+            "GiftDrop": {
+                "GiftDropId": 3248,
+                "FriendlyName": "Retro Sunglasses",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "767684e7-0eec-4f6e-ad58-3d5ae715206e,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 1463,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "08qct3wo7gai3uz597vre1rid.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "767684e7-0eec-4f6e-ad58-3d5ae715206e",
+                    "DownloadableAvatarItemId": "645cc7a2-b313-45df-9ade-2b0adf535dbe",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1463
+                }
+            },
+            "PurchasableItemId": 1760,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 2000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1800,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 2739,
+                "FriendlyName": "Notes Headphones (Black)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "UcPo9SsF3EGTCBB2J-Efdw,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 1044,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "dn3d4707ue1k2osfrlcvavlzo.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "UcPo9SsF3EGTCBB2J-Efdw",
+                    "DownloadableAvatarItemId": "9b2b6b5c-6aad-4547-8cf3-0fae18c00d1c",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1044
+                }
+            },
+            "PurchasableItemId": 1296,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 2250,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3014,
+                "FriendlyName": "Formal Necklace (Gold)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "5e9bbda6-d681-42b1-9cc4-5758acf34bc0,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 1270,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "brfgb9cf9tp8tgva2k3qzm6iv.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "5e9bbda6-d681-42b1-9cc4-5758acf34bc0",
+                    "DownloadableAvatarItemId": "15afd09a-1658-4350-8e2c-02d7dcd4d2ec",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1270
+                }
+            },
+            "PurchasableItemId": 1518,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 900,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3472,
+                "FriendlyName": "Fancy Cape (Grey)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "46cde502-86d6-4061-a80c-67458ffd4d60,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 1584,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "bbiqjubciywrt9n52sthcrv57.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "46cde502-86d6-4061-a80c-67458ffd4d60",
+                    "DownloadableAvatarItemId": "74c1fa9b-9d49-417b-ac95-2a1aa127c96c",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1584
+                }
+            },
+            "PurchasableItemId": 1825,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1350,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 4389,
+                "FriendlyName": "Banker Vest",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "764b4c4e-1009-4772-b01f-7b326dd77e8a,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 2258,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "SBxpBk0gcUG34NYQ8jtNvw.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "764b4c4e-1009-4772-b01f-7b326dd77e8a",
+                    "DownloadableAvatarItemId": "c36784fb-7009-4883-9cbf-7805e5f00265",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 2258
+                }
+            },
+            "PurchasableItemId": 2533,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 3000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 2700,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1980,
+                "FriendlyName": "2-Star Unique Box",
+                "Tooltip": "Equal chance of getting each 2-star item that you don't own.",
+                "TagList": "",
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": true,
+                "QueryRedirectContext": 0,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": 10,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 10,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 44,
+                "ItemSetFriendlyName": "Star Boxes",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "besb2252ca3sxd11arwv7fmwi.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 541,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 200,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 180,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1977,
+                "FriendlyName": "3-Star Unique Box",
+                "Tooltip": "Equal chance of getting each 3-star item that you don't own.",
+                "TagList": "",
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": true,
+                "QueryRedirectContext": 0,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": 20,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 20,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 44,
+                "ItemSetFriendlyName": "Star Boxes",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "3o4mggbq97w8e2rhk01pjvoow.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 538,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 450,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 1978,
+                "FriendlyName": "4-Star Unique Box",
+                "Tooltip": "Equal chance of getting each 4-star item that you don't own.",
+                "TagList": "",
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": null,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": true,
+                "QueryRedirectContext": 0,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": 30,
+                "Unique": true,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 44,
+                "ItemSetFriendlyName": "Star Boxes",
+                "AvatarItemId": 0,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "27m3la1ay2d76rvlgav6h3b2a.png",
+                "AvatarItemInfo": null
+            },
+            "PurchasableItemId": 539,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 800,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 720,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 3703,
+                "FriendlyName": "Resistance Shades",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "d4f86b2b-0fa3-4264-9eac-cf15b62463bd,,,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 1681,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "eewujb3it57bm2qlk725l2aji.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "d4f86b2b-0fa3-4264-9eac-cf15b62463bd",
+                    "DownloadableAvatarItemId": "d14e1819-3ff2-4d0a-b601-b03d73e03d09",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 1681
+                }
+            },
+            "PurchasableItemId": 2074,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1350,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 4340,
+                "FriendlyName": "Cow Ears Headband",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "9d2ea3c2-c199-40ed-a6c3-fab5f8dca7d6,",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": null,
+                "ItemSetFriendlyName": "",
+                "AvatarItemId": 2227,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "gpHXKk3jR061QowF7qKdGw.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "9d2ea3c2-c199-40ed-a6c3-fab5f8dca7d6",
+                    "DownloadableAvatarItemId": "c3063675-3304-4a2c-8951-82a672b27a58",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 2227
+                }
+            },
+            "PurchasableItemId": 2493,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 2000,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 1800,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 4368,
+                "FriendlyName": "Acoustic Guitar (Black)",
+                "Tooltip": "",
+                "TagList": "music",
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "71afc215-3d18-4f36-a114-f11c453e46d2,BPp9SkUpsE2PZlStZrIDIg",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 50,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 119,
+                "ItemSetFriendlyName": "Acoustic Guitar Collection",
+                "AvatarItemId": 2242,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "vpkdcMOxAUylrfe2PrxZfg.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "71afc215-3d18-4f36-a114-f11c453e46d2,BPp9SkUpsE2PZlStZrIDIg",
+                    "DownloadableAvatarItemId": "d8a1c749-9e90-4446-b8d8-3ed0651908c4",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 2242
+                }
+            },
+            "PurchasableItemId": 2841,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 2500,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 2250,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        },
+        {
+            "GiftDrop": {
+                "GiftDropId": 4517,
+                "FriendlyName": "Hot Dog Suit (Ketchup)",
+                "Tooltip": "",
+                "TagList": null,
+                "ConsumableItemDesc": "",
+                "AvatarItemDesc": "4c52478a-b2c9-4520-8f88-52f2262cc6bf,YR7P-KQLGUKPF7JbW85K7g",
+                "CustomAvatarItemId": null,
+                "AvatarItemType": 0,
+                "EquipmentPrefabName": "",
+                "EquipmentModificationGuid": "",
+                "IsQuery": false,
+                "QueryRedirectContext": null,
+                "QueryRedirectTag": null,
+                "QueryRedirectRarity": null,
+                "Unique": false,
+                "SubscribersOnly": false,
+                "Rarity": 30,
+                "Context": 0,
+                "Currency": 0,
+                "CurrencyType": 0,
+                "ItemCount": 1,
+                "ItemSetId": 140,
+                "ItemSetFriendlyName": "Hot Dog Outfit (Ketchup)",
+                "AvatarItemId": 2380,
+                "EquipmentItemId": 0,
+                "ThumbnailImageName": "Oy7uq9Y6VEi4oYPxwG-aMA.png",
+                "AvatarItemInfo": {
+                    "Version": 2,
+                    "LegacyAvatarItemDesc": "4c52478a-b2c9-4520-8f88-52f2262cc6bf,YR7P-KQLGUKPF7JbW85K7g",
+                    "DownloadableAvatarItemId": "7c219d6f-e0fd-4b2c-b9ac-63bda384fee0",
+                    "AvatarItemType": 0,
+                    "LegacyAvatarItemRowId": 2380
+                }
+            },
+            "PurchasableItemId": 2594,
+            "Type": 0,
+            "Prices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 900,
+                    "StorefrontSaleData": {
+                        "SalePercent": 80,
+                        "SaleStartDate": "2026-03-30T23:00:00Z",
+                        "SaleEndDate": null
+                    }
+                }
+            ],
+            "SubscriberPrices": [
+                {
+                    "CurrencyType": 2,
+                    "Price": 810,
+                    "StorefrontSaleData": null
+                }
+            ],
+            "IsFeatured": false,
+            "NewUntil": null,
+            "AvailableAt": null,
+            "AvailableUntil": null,
+            "CanBeGifted": true,
+            "OnlyAvailableThroughCv2": false
+        }
+    ],
+    "SubscriberDiscountPercent": 10,
+    "StorefrontName": "Rec Center",
+    "StorefrontType": 2,
+    "NextUpdate": "2032-04-17T18:00:00Z",
+    "NewUntil": null
+}
