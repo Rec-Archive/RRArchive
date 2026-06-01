@@ -1,0 +1,20 @@
+{
+    "ProgressionEventId": 17,
+    "Name": "Tricks Challenge",
+    "IsEnabled": true,
+    "Rewards": [],
+    "KeepsakeRoomLists": [],
+    "StartTime": "2025-10-29T18:00:00Z",
+    "EndTime": "2025-11-03T03:00:00Z",
+    "CollectionEndTime": "2025-11-04T03:00:00Z",
+    "UsesBoost": false,
+    "BoostDailyGameplayMinutesLimit": 0,
+    "BoostXpMultiplier": 0,
+    "PurchasableXpBoostId": "6b162910-f07d-409d-bae8-be4854358059",
+    "ActiveExperiment": "liveops_q42025_rectober_tricks",
+    "ChallengesIconImageName": "15g8dw5os81x3wyjp1fcq20ah.png",
+    "RewardsPipImageName": "0ibvu6e7i67j4cxkakbif3hwr.png",
+    "EventInfoImageName": "ew5owqjujje8a4cloy6lifzqh.png",
+    "EventLeaderboardId": 17,
+    "InitialCurrencyGrant": 275
+}

@@ -1,0 +1,117 @@
+{
+    "ProgressionEventId": 5,
+    "Name": "Progression Event Alpha Repeat",
+    "IsEnabled": false,
+    "Rewards": [
+        {
+            "ProgressionEventRewardId": 8,
+            "ProgressionEventId": 5,
+            "GiftDropId": 3798,
+            "GiftDropIds": [
+                3798
+            ],
+            "ImageName": "c6o7fs5n863b70ib8l72db471.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 30,
+            "RewardIndex": 0,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 9,
+            "ProgressionEventId": 5,
+            "GiftDropId": 3779,
+            "GiftDropIds": [
+                3779
+            ],
+            "ImageName": "dr989ihctyomlfrq9cvy1m53o.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 60,
+            "RewardIndex": 1,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 10,
+            "ProgressionEventId": 5,
+            "GiftDropId": 3025,
+            "GiftDropIds": [
+                3025
+            ],
+            "ImageName": "1kgv7gxn97k59qpd8ulfupg9p.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 90,
+            "RewardIndex": 2,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 11,
+            "ProgressionEventId": 5,
+            "GiftDropId": 4079,
+            "GiftDropIds": [
+                4079
+            ],
+            "ImageName": "bg5irppfjfcvspbyg0xupdzzz.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 130,
+            "RewardIndex": 3,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 12,
+            "ProgressionEventId": 5,
+            "GiftDropId": 4078,
+            "GiftDropIds": [
+                4078
+            ],
+            "ImageName": "cc5c98ttyl081t6wxadsaovh4.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 180,
+            "RewardIndex": 4,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 13,
+            "ProgressionEventId": 5,
+            "GiftDropId": 3974,
+            "GiftDropIds": [
+                3974
+            ],
+            "ImageName": "213ynroo1di0tvm9najsuxwrw.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 250,
+            "RewardIndex": 5,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        }
+    ],
+    "KeepsakeRoomLists": [],
+    "StartTime": "2022-09-20T23:00:00Z",
+    "EndTime": "2022-09-23T23:00:00Z",
+    "CollectionEndTime": "2022-09-24T23:00:00Z",
+    "UsesBoost": true,
+    "BoostDailyGameplayMinutesLimit": 20,
+    "BoostXpMultiplier": 3,
+    "PurchasableXpBoostId": null,
+    "ActiveExperiment": "growth_second_progression_event",
+    "ChallengesIconImageName": null,
+    "RewardsPipImageName": null,
+    "EventInfoImageName": null,
+    "EventLeaderboardId": null,
+    "InitialCurrencyGrant": 0
+}

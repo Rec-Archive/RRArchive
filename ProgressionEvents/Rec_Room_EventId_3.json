@@ -1,0 +1,277 @@
+{
+    "ProgressionEventId": 3,
+    "Name": "Rec Room",
+    "IsEnabled": false,
+    "Rewards": [],
+    "KeepsakeRoomLists": [
+        {
+            "KeepsakeRoomListId": 1,
+            "ProgressionEventId": 3,
+            "UnlockItemAvatarItemId": null,
+            "UnlockItemGiftDropId": null,
+            "UnlockItemLockDurationTicks": null,
+            "KeepsakeRooms": [
+                {
+                    "KeepsakeRoomId": 6,
+                    "RoomId": 41855338,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 0
+                },
+                {
+                    "KeepsakeRoomId": 7,
+                    "RoomId": 54586671,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 1
+                },
+                {
+                    "KeepsakeRoomId": 27,
+                    "RoomId": 76714234,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 2
+                },
+                {
+                    "KeepsakeRoomId": 13,
+                    "RoomId": 9112061,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 3
+                },
+                {
+                    "KeepsakeRoomId": 5,
+                    "RoomId": 59058753,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 4
+                },
+                {
+                    "KeepsakeRoomId": 1,
+                    "RoomId": 5242677,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 5
+                },
+                {
+                    "KeepsakeRoomId": 26,
+                    "RoomId": 59046620,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 6
+                },
+                {
+                    "KeepsakeRoomId": 23,
+                    "RoomId": 42598725,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 7
+                },
+                {
+                    "KeepsakeRoomId": 37,
+                    "RoomId": 59100897,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 8
+                },
+                {
+                    "KeepsakeRoomId": 12,
+                    "RoomId": 59058035,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 9
+                },
+                {
+                    "KeepsakeRoomId": 24,
+                    "RoomId": 78042908,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 10
+                },
+                {
+                    "KeepsakeRoomId": 15,
+                    "RoomId": 25982226,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 11
+                },
+                {
+                    "KeepsakeRoomId": 3,
+                    "RoomId": 59070317,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 12
+                },
+                {
+                    "KeepsakeRoomId": 4,
+                    "RoomId": 32840405,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 13
+                },
+                {
+                    "KeepsakeRoomId": 8,
+                    "RoomId": 42146023,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 14
+                },
+                {
+                    "KeepsakeRoomId": 14,
+                    "RoomId": 32217089,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 15
+                },
+                {
+                    "KeepsakeRoomId": 22,
+                    "RoomId": 76890764,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 16
+                },
+                {
+                    "KeepsakeRoomId": 28,
+                    "RoomId": 59045944,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 17
+                },
+                {
+                    "KeepsakeRoomId": 25,
+                    "RoomId": 26003309,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 18
+                },
+                {
+                    "KeepsakeRoomId": 11,
+                    "RoomId": 16860104,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 19
+                },
+                {
+                    "KeepsakeRoomId": 2,
+                    "RoomId": 26265683,
+                    "KeepsakeRoomListId": 1,
+                    "Type": 0,
+                    "Order": 20
+                }
+            ],
+            "RoomUnlockStartOffsetTicks": 0,
+            "RoomUnlockIntervalTicks": 0,
+            "RoomUnlockBatchSize": 0,
+            "RoomType": 0,
+            "UnlockItemLockDuration": null,
+            "RoomUnlockStartOffset": "00:00:00",
+            "RoomUnlockInterval": "00:00:00"
+        },
+        {
+            "KeepsakeRoomListId": 2,
+            "ProgressionEventId": 3,
+            "UnlockItemAvatarItemId": null,
+            "UnlockItemGiftDropId": null,
+            "UnlockItemLockDurationTicks": null,
+            "KeepsakeRooms": [
+                {
+                    "KeepsakeRoomId": 34,
+                    "RoomId": 67219271,
+                    "KeepsakeRoomListId": 2,
+                    "Type": 1,
+                    "Order": 0
+                },
+                {
+                    "KeepsakeRoomId": 30,
+                    "RoomId": 41885666,
+                    "KeepsakeRoomListId": 2,
+                    "Type": 1,
+                    "Order": 1
+                },
+                {
+                    "KeepsakeRoomId": 16,
+                    "RoomId": 69004612,
+                    "KeepsakeRoomListId": 2,
+                    "Type": 1,
+                    "Order": 2
+                },
+                {
+                    "KeepsakeRoomId": 31,
+                    "RoomId": 25251760,
+                    "KeepsakeRoomListId": 2,
+                    "Type": 1,
+                    "Order": 3
+                },
+                {
+                    "KeepsakeRoomId": 29,
+                    "RoomId": 41892811,
+                    "KeepsakeRoomListId": 2,
+                    "Type": 1,
+                    "Order": 4
+                },
+                {
+                    "KeepsakeRoomId": 18,
+                    "RoomId": 31382618,
+                    "KeepsakeRoomListId": 2,
+                    "Type": 1,
+                    "Order": 5
+                },
+                {
+                    "KeepsakeRoomId": 33,
+                    "RoomId": 42201785,
+                    "KeepsakeRoomListId": 2,
+                    "Type": 1,
+                    "Order": 6
+                },
+                {
+                    "KeepsakeRoomId": 36,
+                    "RoomId": 77993488,
+                    "KeepsakeRoomListId": 2,
+                    "Type": 1,
+                    "Order": 7
+                },
+                {
+                    "KeepsakeRoomId": 20,
+                    "RoomId": 59106455,
+                    "KeepsakeRoomListId": 2,
+                    "Type": 1,
+                    "Order": 8
+                },
+                {
+                    "KeepsakeRoomId": 32,
+                    "RoomId": 31370276,
+                    "KeepsakeRoomListId": 2,
+                    "Type": 1,
+                    "Order": 9
+                },
+                {
+                    "KeepsakeRoomId": 17,
+                    "RoomId": 41854064,
+                    "KeepsakeRoomListId": 2,
+                    "Type": 1,
+                    "Order": 10
+                }
+            ],
+            "RoomUnlockStartOffsetTicks": 0,
+            "RoomUnlockIntervalTicks": 0,
+            "RoomUnlockBatchSize": 0,
+            "RoomType": 1,
+            "UnlockItemLockDuration": null,
+            "RoomUnlockStartOffset": "00:00:00",
+            "RoomUnlockInterval": "00:00:00"
+        }
+    ],
+    "StartTime": "2023-12-14T00:00:00Z",
+    "EndTime": "2023-12-15T00:00:00Z",
+    "CollectionEndTime": "2023-12-16T00:00:00Z",
+    "UsesBoost": false,
+    "BoostDailyGameplayMinutesLimit": 0,
+    "BoostXpMultiplier": 0,
+    "PurchasableXpBoostId": null,
+    "ActiveExperiment": null,
+    "ChallengesIconImageName": null,
+    "RewardsPipImageName": null,
+    "EventInfoImageName": null,
+    "EventLeaderboardId": null,
+    "InitialCurrencyGrant": 0
+}

@@ -1,0 +1,56 @@
+[
+    {
+        "AdCarouselItemId": 1015,
+        "ImageName": "35ra13gwuxqu8w0qiuczm0zcv.jpg",
+        "Title": "Bonus Starter Pack",
+        "Description": "Get 10k tokens, pizza, pop, & potion for half price!",
+        "PurchasableItemIds": [],
+        "PurchaseReminderId": 136,
+        "ShowCustomAvatarItemSearch": false
+    },
+    {
+        "AdCarouselItemId": 1016,
+        "ImageName": "eiat2tmv64791ttgka3hvz9xf.jpg",
+        "Title": "Essential Fit Bundle",
+        "Description": "Start your wardrobe with these 16 everyday outfit-ready pieces",
+        "PurchasableItemIds": [],
+        "PurchaseReminderId": 516,
+        "ShowCustomAvatarItemSearch": false
+    },
+    {
+        "AdCarouselItemId": 1017,
+        "ImageName": "8tc5isko6h7m5gdba7hou7b9m.jpg",
+        "Title": "PUMA Starter Pack",
+        "Description": "Get a deal today on core official PUMA fit",
+        "PurchasableItemIds": [],
+        "PurchaseReminderId": 519,
+        "ShowCustomAvatarItemSearch": false
+    },
+    {
+        "AdCarouselItemId": 10,
+        "ImageName": "d2j9p65mdki4vqk5dqx37pf2x.jpg",
+        "Title": "Nom Nom Nom",
+        "Description": "Try these tasty treats today.",
+        "PurchasableItemIds": [
+            572,
+            574,
+            582,
+            584,
+            855,
+            856,
+            857,
+            921,
+            922,
+            1554,
+            1765,
+            1766,
+            1767,
+            1772,
+            1896,
+            2089,
+            2145
+        ],
+        "PurchaseReminderId": null,
+        "ShowCustomAvatarItemSearch": false
+    }
+]

@@ -1,0 +1,227 @@
+{
+    "ProgressionEventId": 16,
+    "Name": "Treat Collection Challenge",
+    "IsEnabled": true,
+    "Rewards": [
+        {
+            "ProgressionEventRewardId": 241,
+            "ProgressionEventId": 16,
+            "GiftDropId": 33148,
+            "GiftDropIds": [
+                33148
+            ],
+            "ImageName": "5u8mhj7w2qpr1f6gv1i2j9agh.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 100,
+            "RewardIndex": 0,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 242,
+            "ProgressionEventId": 16,
+            "GiftDropId": 33274,
+            "GiftDropIds": [
+                33274
+            ],
+            "ImageName": "524wcausenuws6tcy01f5kfj3.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 575,
+            "RewardIndex": 1,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 243,
+            "ProgressionEventId": 16,
+            "GiftDropId": 33282,
+            "GiftDropIds": [
+                33282
+            ],
+            "ImageName": "0wr3qcgxfrotusbxasn4xqxll.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 1150,
+            "RewardIndex": 2,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 244,
+            "ProgressionEventId": 16,
+            "GiftDropId": 33242,
+            "GiftDropIds": [
+                33242
+            ],
+            "ImageName": "7ccyt74z6qe1a3gyhvgpajx6q.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 1600,
+            "RewardIndex": 3,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 245,
+            "ProgressionEventId": 16,
+            "GiftDropId": 33252,
+            "GiftDropIds": [
+                33252
+            ],
+            "ImageName": "9oufkpwzzblczfxvkhm42qz8q.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 2000,
+            "RewardIndex": 4,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 247,
+            "ProgressionEventId": 16,
+            "GiftDropId": 33237,
+            "GiftDropIds": [
+                33237,
+                33238,
+                33239
+            ],
+            "ImageName": "e416lpu3mlynh1h3ace7bb66k.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 2000,
+            "RewardIndex": 5,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": 100
+        }
+    ],
+    "KeepsakeRoomLists": [
+        {
+            "KeepsakeRoomListId": 35,
+            "ProgressionEventId": 16,
+            "UnlockItemAvatarItemId": null,
+            "UnlockItemGiftDropId": null,
+            "UnlockItemLockDurationTicks": null,
+            "KeepsakeRooms": [
+                {
+                    "KeepsakeRoomId": 308,
+                    "RoomId": 8055432965292997844,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 0
+                },
+                {
+                    "KeepsakeRoomId": 303,
+                    "RoomId": 8623922633989916245,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 1
+                },
+                {
+                    "KeepsakeRoomId": 296,
+                    "RoomId": 2720689679841941691,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 2
+                },
+                {
+                    "KeepsakeRoomId": 306,
+                    "RoomId": 1198369430637700542,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 3
+                },
+                {
+                    "KeepsakeRoomId": 305,
+                    "RoomId": 5060281615610518191,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 4
+                },
+                {
+                    "KeepsakeRoomId": 299,
+                    "RoomId": 5664046151556621084,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 5
+                },
+                {
+                    "KeepsakeRoomId": 302,
+                    "RoomId": 3579409834391380003,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 6
+                },
+                {
+                    "KeepsakeRoomId": 300,
+                    "RoomId": 7430395197140819449,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 7
+                },
+                {
+                    "KeepsakeRoomId": 309,
+                    "RoomId": 170126,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 8
+                },
+                {
+                    "KeepsakeRoomId": 297,
+                    "RoomId": 5988747458686605260,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 9
+                },
+                {
+                    "KeepsakeRoomId": 301,
+                    "RoomId": 8323646838241355522,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 10
+                },
+                {
+                    "KeepsakeRoomId": 298,
+                    "RoomId": 4055690517114419831,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 11
+                },
+                {
+                    "KeepsakeRoomId": 304,
+                    "RoomId": 1408763564617909051,
+                    "KeepsakeRoomListId": 35,
+                    "Type": 0,
+                    "Order": 12
+                }
+            ],
+            "RoomUnlockStartOffsetTicks": 10000000,
+            "RoomUnlockIntervalTicks": 10000000,
+            "RoomUnlockBatchSize": 100,
+            "RoomType": 0,
+            "UnlockItemLockDuration": null,
+            "RoomUnlockStartOffset": "00:00:01",
+            "RoomUnlockInterval": "00:00:01"
+        }
+    ],
+    "StartTime": "2025-10-17T18:00:00Z",
+    "EndTime": "2025-10-23T18:00:00Z",
+    "CollectionEndTime": "2025-10-24T18:00:00Z",
+    "UsesBoost": false,
+    "BoostDailyGameplayMinutesLimit": 0,
+    "BoostXpMultiplier": 0,
+    "PurchasableXpBoostId": "af4c4b42-7d8b-4084-9e34-66d6da665f8f",
+    "ActiveExperiment": "liveops_q42025_rectober_treats",
+    "ChallengesIconImageName": null,
+    "RewardsPipImageName": null,
+    "EventInfoImageName": "485daw4zpr3dwyhrayusrr5hv.png",
+    "EventLeaderboardId": null,
+    "InitialCurrencyGrant": 0
+}

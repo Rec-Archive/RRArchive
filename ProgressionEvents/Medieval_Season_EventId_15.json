@@ -1,0 +1,661 @@
+{
+    "ProgressionEventId": 15,
+    "Name": "Medieval Season",
+    "IsEnabled": true,
+    "Rewards": [
+        {
+            "ProgressionEventRewardId": 184,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31965,
+            "GiftDropIds": [
+                31965
+            ],
+            "ImageName": "119ujjiogkl6o8hvn0bv1e9v8.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 10,
+            "RewardIndex": 0,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 185,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31964,
+            "GiftDropIds": [
+                31964
+            ],
+            "ImageName": "2ekumj2jf1uz8yw8d7gmtnunm.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 10,
+            "RewardIndex": 1,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 186,
+            "ProgressionEventId": 15,
+            "GiftDropId": 18130,
+            "GiftDropIds": [
+                18130
+            ],
+            "ImageName": "01vkyx5jx6em155gbfpdy4fxa.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 20,
+            "RewardIndex": 2,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 187,
+            "ProgressionEventId": 15,
+            "GiftDropId": 18178,
+            "GiftDropIds": [
+                18178
+            ],
+            "ImageName": "4x07bt9riqjsnr8reyyuu1hh8.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 20,
+            "RewardIndex": 3,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 188,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31966,
+            "GiftDropIds": [
+                31966
+            ],
+            "ImageName": "523hupp6etxjopnc8eqrnihks.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 40,
+            "RewardIndex": 4,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 189,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31965,
+            "GiftDropIds": [
+                31965
+            ],
+            "ImageName": "55el0zslgj93g4g0ob2tlaiyx.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 40,
+            "RewardIndex": 5,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 190,
+            "ProgressionEventId": 15,
+            "GiftDropId": 2010,
+            "GiftDropIds": [
+                2010
+            ],
+            "ImageName": "4z1sudgzj0fcvuzh85ygggbbs.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 60,
+            "RewardIndex": 6,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 191,
+            "ProgressionEventId": 15,
+            "GiftDropId": 18128,
+            "GiftDropIds": [
+                18128
+            ],
+            "ImageName": "atoz95u6cuuavzkxx8ahbaqvd.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 60,
+            "RewardIndex": 7,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 196,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31967,
+            "GiftDropIds": [
+                31967
+            ],
+            "ImageName": "230klvvpb0fxmd9514h7ikvl9.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 90,
+            "RewardIndex": 8,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 197,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31966,
+            "GiftDropIds": [
+                31966
+            ],
+            "ImageName": "di0eruhrxnqcqfu8ovjxo02c3.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 90,
+            "RewardIndex": 9,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 198,
+            "ProgressionEventId": 15,
+            "GiftDropId": 18130,
+            "GiftDropIds": [
+                18130
+            ],
+            "ImageName": "22j1uti988vvw686gzcu5ke17.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 130,
+            "RewardIndex": 10,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 199,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31968,
+            "GiftDropIds": [
+                31968
+            ],
+            "ImageName": "bmt82rnj5xrry556ifjo9u29f.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 130,
+            "RewardIndex": 11,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 200,
+            "ProgressionEventId": 15,
+            "GiftDropId": 15500,
+            "GiftDropIds": [
+                15500
+            ],
+            "ImageName": "epdwizupz0rstj2bzod82kmza.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 180,
+            "RewardIndex": 12,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 201,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31967,
+            "GiftDropIds": [
+                31967
+            ],
+            "ImageName": "36t3tpm79wuydbdomdu26alkv.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 180,
+            "RewardIndex": 13,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 202,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31965,
+            "GiftDropIds": [
+                31965
+            ],
+            "ImageName": "6s3w0zksn3wwdbcq1ia77lyz7.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 240,
+            "RewardIndex": 14,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 203,
+            "ProgressionEventId": 15,
+            "GiftDropId": 18128,
+            "GiftDropIds": [
+                18128
+            ],
+            "ImageName": "97dm76eryr3gwtl6ue1zcmacw.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 240,
+            "RewardIndex": 15,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 204,
+            "ProgressionEventId": 15,
+            "GiftDropId": 15572,
+            "GiftDropIds": [
+                15572
+            ],
+            "ImageName": "1cwr07kjp9rvvi6pod9xhuugx.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 300,
+            "RewardIndex": 16,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 205,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31965,
+            "GiftDropIds": [
+                31965
+            ],
+            "ImageName": "4jnib0tx57plpgm6le0ek7c68.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 300,
+            "RewardIndex": 17,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 206,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31965,
+            "GiftDropIds": [
+                31965
+            ],
+            "ImageName": "evymtv1hf5uyibfglhp91ly5l.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 360,
+            "RewardIndex": 18,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 207,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31969,
+            "GiftDropIds": [
+                31969
+            ],
+            "ImageName": "93xulm1o1e5i8hepqfg6i6dld.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 360,
+            "RewardIndex": 19,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 208,
+            "ProgressionEventId": 15,
+            "GiftDropId": 2010,
+            "GiftDropIds": [
+                2010
+            ],
+            "ImageName": "1l9oio4bq2umlhpom71jeka87.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 440,
+            "RewardIndex": 20,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 209,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31966,
+            "GiftDropIds": [
+                31966
+            ],
+            "ImageName": "4qrt06kn0qxikchcsb4xf7cp6.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 440,
+            "RewardIndex": 21,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 210,
+            "ProgressionEventId": 15,
+            "GiftDropId": 18130,
+            "GiftDropIds": [
+                18130
+            ],
+            "ImageName": "5js3ybdcbnkwpaz68huelwanj.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 520,
+            "RewardIndex": 22,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 211,
+            "ProgressionEventId": 15,
+            "GiftDropId": 18128,
+            "GiftDropIds": [
+                18128
+            ],
+            "ImageName": "bok9gvl9mp81pud1xcp1owzum.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 520,
+            "RewardIndex": 23,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 212,
+            "ProgressionEventId": 15,
+            "GiftDropId": 15558,
+            "GiftDropIds": [
+                15558
+            ],
+            "ImageName": "a88y623frl8axhvp1equcqbw0.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 610,
+            "RewardIndex": 24,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 213,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31966,
+            "GiftDropIds": [
+                31966
+            ],
+            "ImageName": "2trla90had5222g1roc7myvys.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 610,
+            "RewardIndex": 25,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 214,
+            "ProgressionEventId": 15,
+            "GiftDropId": 18130,
+            "GiftDropIds": [
+                18130
+            ],
+            "ImageName": "e226ung2j4vwcwhbrvqurenue.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 710,
+            "RewardIndex": 26,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 215,
+            "ProgressionEventId": 15,
+            "GiftDropId": 17030,
+            "GiftDropIds": [
+                17030
+            ],
+            "ImageName": "br79hvrvevfdxjnw30auft6ps.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 710,
+            "RewardIndex": 27,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 216,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31966,
+            "GiftDropIds": [
+                31966
+            ],
+            "ImageName": "02ibg78pact35tmgo17h47r0d.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 810,
+            "RewardIndex": 28,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 217,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31965,
+            "GiftDropIds": [
+                31965
+            ],
+            "ImageName": "bx673w6t4y0sus5lqavuuhw34.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 810,
+            "RewardIndex": 29,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 218,
+            "ProgressionEventId": 15,
+            "GiftDropId": 18180,
+            "GiftDropIds": [
+                18180
+            ],
+            "ImageName": "dmz15b9tuc95xxp4emqt2oemi.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 930,
+            "RewardIndex": 30,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 219,
+            "ProgressionEventId": 15,
+            "GiftDropId": 18128,
+            "GiftDropIds": [
+                18128
+            ],
+            "ImageName": "0qaxg6x1j5k5m75d9gius4mdp.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 930,
+            "RewardIndex": 31,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 220,
+            "ProgressionEventId": 15,
+            "GiftDropId": 2010,
+            "GiftDropIds": [
+                2010
+            ],
+            "ImageName": "9xjv03v8l6bme8dz3t6e3bzsr.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 1050,
+            "RewardIndex": 32,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 221,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31966,
+            "GiftDropIds": [
+                31966
+            ],
+            "ImageName": "b6xga15ruxpacniaqcnjnv1er.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 1050,
+            "RewardIndex": 33,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 222,
+            "ProgressionEventId": 15,
+            "GiftDropId": 18130,
+            "GiftDropIds": [
+                18130
+            ],
+            "ImageName": "8c2h0r2swf6bpi9671j29drus.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 1170,
+            "RewardIndex": 34,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 223,
+            "ProgressionEventId": 15,
+            "GiftDropId": 18179,
+            "GiftDropIds": [
+                18179
+            ],
+            "ImageName": "bj47w995if9qpgwzs3h9b2nzb.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 1170,
+            "RewardIndex": 35,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 224,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31967,
+            "GiftDropIds": [
+                31967
+            ],
+            "ImageName": "e2jryr3ypkzni6kkga234jfoi.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 1300,
+            "RewardIndex": 36,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 225,
+            "ProgressionEventId": 15,
+            "GiftDropId": 31967,
+            "GiftDropIds": [
+                31967
+            ],
+            "ImageName": "8ks2xl4ce9fz3xbpsp794vmjf.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 1300,
+            "RewardIndex": 37,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 226,
+            "ProgressionEventId": 15,
+            "GiftDropId": 17065,
+            "GiftDropIds": [
+                17065
+            ],
+            "ImageName": "3ldt5498un7cv6mt52ybkd7x1.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 1440,
+            "RewardIndex": 38,
+            "IsBonus": false,
+            "IsRRPlusExclusive": false,
+            "MaxGlobalCollections": null
+        },
+        {
+            "ProgressionEventRewardId": 227,
+            "ProgressionEventId": 15,
+            "GiftDropId": 17064,
+            "GiftDropIds": [
+                17064
+            ],
+            "ImageName": "7x6406x170ca8k6xxn49gpp67.png",
+            "ImageStream": null,
+            "ImageContentType": null,
+            "Xp": 1440,
+            "RewardIndex": 39,
+            "IsBonus": false,
+            "IsRRPlusExclusive": true,
+            "MaxGlobalCollections": null
+        }
+    ],
+    "KeepsakeRoomLists": [],
+    "StartTime": "2025-08-08T14:00:00Z",
+    "EndTime": "2025-08-25T14:00:00Z",
+    "CollectionEndTime": "2025-08-26T14:00:00Z",
+    "UsesBoost": true,
+    "BoostDailyGameplayMinutesLimit": 1440,
+    "BoostXpMultiplier": 1,
+    "PurchasableXpBoostId": "b86411a0-10c5-4d2b-9228-30e94a00eb68",
+    "ActiveExperiment": null,
+    "ChallengesIconImageName": null,
+    "RewardsPipImageName": null,
+    "EventInfoImageName": "76lkj9zjul69p2jtjwwb3gtyp.png",
+    "EventLeaderboardId": null,
+    "InitialCurrencyGrant": 0
+}
