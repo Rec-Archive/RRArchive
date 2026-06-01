@@ -1,0 +1,88 @@
+{
+    "value": {
+        "ReferralsVerifiedCount": 0,
+        "PlayerReferralRewards": [
+            {
+                "UnlockedAt": null,
+                "ClaimedAt": null,
+                "Status": 0,
+                "ReferralRewardTier": {
+                    "ReferralRewardTierId": 1,
+                    "RequiredReferralCount": 1,
+                    "RewardSelectionCount": 1
+                }
+            },
+            {
+                "UnlockedAt": null,
+                "ClaimedAt": null,
+                "Status": 0,
+                "ReferralRewardTier": {
+                    "ReferralRewardTierId": 2,
+                    "RequiredReferralCount": 2,
+                    "RewardSelectionCount": 1
+                }
+            },
+            {
+                "UnlockedAt": null,
+                "ClaimedAt": null,
+                "Status": 0,
+                "ReferralRewardTier": {
+                    "ReferralRewardTierId": 3,
+                    "RequiredReferralCount": 3,
+                    "RewardSelectionCount": 1
+                }
+            },
+            {
+                "UnlockedAt": null,
+                "ClaimedAt": null,
+                "Status": 0,
+                "ReferralRewardTier": {
+                    "ReferralRewardTierId": 4,
+                    "RequiredReferralCount": 5,
+                    "RewardSelectionCount": 2
+                }
+            },
+            {
+                "UnlockedAt": null,
+                "ClaimedAt": null,
+                "Status": 0,
+                "ReferralRewardTier": {
+                    "ReferralRewardTierId": 5,
+                    "RequiredReferralCount": 7,
+                    "RewardSelectionCount": 2
+                }
+            },
+            {
+                "UnlockedAt": null,
+                "ClaimedAt": null,
+                "Status": 0,
+                "ReferralRewardTier": {
+                    "ReferralRewardTierId": 6,
+                    "RequiredReferralCount": 10,
+                    "RewardSelectionCount": 3
+                }
+            },
+            {
+                "UnlockedAt": null,
+                "ClaimedAt": null,
+                "Status": 0,
+                "ReferralRewardTier": {
+                    "ReferralRewardTierId": 7,
+                    "RequiredReferralCount": 15,
+                    "RewardSelectionCount": 3
+                }
+            },
+            {
+                "UnlockedAt": null,
+                "ClaimedAt": null,
+                "Status": 0,
+                "ReferralRewardTier": {
+                    "ReferralRewardTierId": 8,
+                    "RequiredReferralCount": 20,
+                    "RewardSelectionCount": 4
+                }
+            }
+        ]
+    },
+    "success": true
+}
